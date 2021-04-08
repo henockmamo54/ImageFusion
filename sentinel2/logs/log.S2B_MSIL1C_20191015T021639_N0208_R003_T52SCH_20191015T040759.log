@@ -1,0 +1,6 @@
+--2021-04-08 16:42:03--  https://scihub.copernicus.eu/dhus/odata/v1/Products('3ff297d5-d8d3-4d3b-a823-162807e3696d')/$value
+Resolving scihub.copernicus.eu (scihub.copernicus.eu)... 131.176.236.28
+Connecting to scihub.copernicus.eu (scihub.copernicus.eu)|131.176.236.28|:443... connected.
+HTTP request sent, awaiting response... 429 Too Many Requests
+2021-04-08 16:42:04 ERROR 429: Too Many Requests.
+
