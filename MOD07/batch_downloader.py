@@ -1,3 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Apr  8 10:15:33 2021
+
+@author: Henock
+"""
+ 
+ 
 '''
 This script downloads MCD43A4.006 data given year and month
 by Chongya Jiang in Sep, 2018
@@ -11,17 +19,17 @@ from sys import argv
 from datetime import datetime
 import urllib
 import sys
-#import urllib.request
+import urllib.request
 
 ROOT = 'https://e4ftl01.cr.usgs.gov/MOTA/MCD43A4.006'
-root = "/bess19/Image_fusion/download/MODIS/MCD43A4"
+root = ""
 time = datetime.now()
 year = 2019  
 months = list(range(8,12)) #int(argv[2])
 day = 1 #int(argv[3])
 
 for month in months:
-    for day in range(1,32):
+    for day in range(0,32):
         
         print(month,day)
         try:
@@ -34,7 +42,7 @@ for month in months:
             PATH = '%s/%d.%02d.%02d' % (ROOT,year,month,day)
             print('Downloading MCD43D63, ' + YEAR + DOY)
         
-            response = urllib.urlopen(PATH)
+            response = urllib.request.urlopen(PATH)
             for line in response.readlines():
                 line= str(line)
             
@@ -46,7 +54,7 @@ for month in months:
                 URL = '%s/%s' % (PATH,name)
                 url = '%s/%s' % (path,name)
                 print(URL)
-                os.system('wget -q -c -nc -O %s %s ' % (url,URL))
+                # os.system('wget -q -c -nc -O %s %s ' % (url,URL))
         except:
             print('ERR')
             print("Unexpected error:", sys.exc_info()[0])

@@ -1,6 +1,6 @@
  
 '''
-This script downloads MCD43A4.006 data given year and month
+This script downloads MOD04_3K data given year and month
 by Chongya Jiang in Sep, 2018
  
 Usage: python Download.py year month day
@@ -12,25 +12,27 @@ from sys import argv
 from datetime import datetime
 import urllib
 import sys
-#import urllib.request
+import urllib.request
 
-ROOT = 'https://e4ftl01.cr.usgs.gov/MOTA/MCD43A4.006'
-root = "/bess19/Image_fusion/download/MODIS/MCD43A4"
+ROOT = 'https://ladsweb.modaps.eosdis.nasa.gov/archive/allData/61/MOD04_3K'
+root = ""
 time = datetime.now()
-year = 2020 #time.year
-#year = int(year)
-month = 1 #int(argv[2])
-day = 1 #int(argv[3])
+year = 2019 # int(argv[1])
+month = 1   # int(argv[2])
+day = 1     # int(argv[3])
+
 doy = int(datetime(year,month,day).timetuple().tm_yday)
 YEAR = '%d' % (year)
 MONTH = '%02d' % (month)
 DOY = '%03d' % (doy)
 path = os.path.join(root,YEAR,DOY)
 if not os.path.exists(path): os.makedirs(path)
-PATH = '%s/%d.%02d.%02d' % (ROOT,year,month,day)
-print('Downloading MCD43D63, ' + YEAR + DOY)
+PATH = '%s/%d/%s' % (ROOT,year,DOY)
+print('Downloading MOD04_3K, ' + YEAR + DOY)
+
 try:
-    response = urllib.urlopen(PATH)
+    print(PATH)
+    response = urllib.request.urlopen(PATH)
     for line in response.readlines():
         line= str(line)
     
@@ -42,7 +44,7 @@ try:
         URL = '%s/%s' % (PATH,name)
         url = '%s/%s' % (path,name)
         print(URL)
-        os.system('wget -q -c -nc -O %s %s ' % (url,URL))
+        # os.system('wget -q -c -nc -O %s %s ' % (url,URL))
 except:
     print('ERR')
     print("Unexpected error:", sys.exc_info()[0])

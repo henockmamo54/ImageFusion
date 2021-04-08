@@ -1,12 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Apr  8 10:01:34 2021
+Created on Thu Apr  8 10:15:33 2021
 
 @author: Henock
 """
-
-
-
+ 
  
 '''
 This script downloads MCD43A4.006 data given year and month
@@ -23,7 +21,7 @@ import urllib
 import sys
 import urllib.request
 
-ROOT = 'https://e4ftl01.cr.usgs.gov/MOTA/MCD43A4.006'
+ROOT = 'https://ladsweb.modaps.eosdis.nasa.gov/archive/allData/61/MOD04_3K'
 root = ""
 time = datetime.now()
 year = 2019  
@@ -34,18 +32,19 @@ for month in months:
     for day in range(1,32):
         
         print(month,day)
-        
-        doy = int(datetime(year,month,day).timetuple().tm_yday)
-        YEAR = '%d' % (year)	
-        MONTH = '%02d' % (month)
-        DOY = '%03d' % (doy)
-        path = os.path.join(root,YEAR,DOY)
-        if not os.path.exists(path): os.makedirs(path)
-        PATH = '%s/%d.%02d.%02d' % (ROOT,year,month,day)
-        print('Downloading MCD43D63, ' + YEAR + DOY)
         try:
+            doy = int(datetime(year,month,day).timetuple().tm_yday)
+            YEAR = '%d' % (year)	
+            MONTH = '%02d' % (month)
+            DOY = '%03d' % (doy)
+            path = os.path.join(root,YEAR,DOY)
+            if not os.path.exists(path): os.makedirs(path)
+            PATH = '%s/%d/%s' % (ROOT,year,DOY)
+            print('Downloading MCD43D63, ' + YEAR + DOY , PATH)
+        
             response = urllib.request.urlopen(PATH)
             for line in response.readlines():
+                
                 line= str(line)
             
                 if not '.hdf">' in line: continue

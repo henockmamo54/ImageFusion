@@ -12,10 +12,10 @@ from sys import argv
 from datetime import datetime
 import urllib
 import sys
-#import urllib.request
+import urllib.request
 
 ROOT = 'https://e4ftl01.cr.usgs.gov/MOTA/MCD43A4.006'
-root = "/bess19/Image_fusion/download/MODIS/MCD43A4"
+root = ""
 time = datetime.now()
 year = 2020 #time.year
 #year = int(year)
@@ -30,7 +30,7 @@ if not os.path.exists(path): os.makedirs(path)
 PATH = '%s/%d.%02d.%02d' % (ROOT,year,month,day)
 print('Downloading MCD43D63, ' + YEAR + DOY)
 try:
-    response = urllib.urlopen(PATH)
+    response = urllib.request.urlopen(PATH)
     for line in response.readlines():
         line= str(line)
     
@@ -42,7 +42,7 @@ try:
         URL = '%s/%s' % (PATH,name)
         url = '%s/%s' % (path,name)
         print(URL)
-        os.system('wget -q -c -nc -O %s %s ' % (url,URL))
+        # os.system('wget -q -c -nc -O %s %s ' % (url,URL))
 except:
     print('ERR')
     print("Unexpected error:", sys.exc_info()[0])
