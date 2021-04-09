@@ -24,8 +24,8 @@ level1destination="/bess19/Image_fusion/download/sentinel2/L1"
 level2destination="/bess19/Image_fusion/download/sentinel2/L2"
 
 
-level1Datadownloadscript= '''bash dhusget_0.sh -m {0} -s {1} -e {2} -c {3},{4}:{5},{6} -T {7} -l {8} -C './products-list.csv' -o '{9}' -O '{10}'  -w 1 -W 1'''.format(missionname,startdate,enddate,long1,lat1,long2,lat2, producttype_level1,listcount,downloadoption,level1destination)
-level2Datadownloadscript= '''bash dhusget_0.sh -m {0} -s {1} -e {2} -c {3},{4}:{5},{6} -T {7} -l {8} -C './products-list.csv' -o '{9}' -O '{10}'  -w 1 -W 1'''.format(missionname,startdate,enddate,long1,lat1,long2,lat2, producttype_level2,listcount,downloadoption,level2destination)
+level1Datadownloadscript= '''bash dhusget_0.sh -m {0} -s {1} -e {2} -c {3},{4}:{5},{6} -T {7} -l {8} -C '{10}/products-list.csv' -o '{9}' -O '{10}'  -w 1 -W 1'''.format(missionname,startdate,enddate,long1,lat1,long2,lat2, producttype_level1,listcount,downloadoption,level1destination)
+level2Datadownloadscript= '''bash dhusget_0.sh -m {0} -s {1} -e {2} -c {3},{4}:{5},{6} -T {7} -l {8} -C '{10}/products-list.csv' -o '{9}' -O '{10}'  -w 1 -W 1'''.format(missionname,startdate,enddate,long1,lat1,long2,lat2, producttype_level2,listcount,downloadoption,level2destination)
 
 os.system(level1Datadownloadscript)
 os.system(level2Datadownloadscript)
