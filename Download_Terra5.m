@@ -1,8 +1,5 @@
-
-
-
-
-
+ 
+ 
 % LAT = importdata('/bess/JCY/BESSv2/Ancillary/LAT.005d.mat');
 % LON = importdata('/bess/JCY/BESSv2/Ancillary/LON.005d.mat');
  
@@ -34,8 +31,7 @@ for year = years
         LON_(LON_<0) = 360 + LON_(LON_<0);
         [~,month,date,~,~,~] = datevec(datenum(year,1,doy));
 
-        %Creat folders
-        % path = sprintf('/bess19/Yulin/Data/Terra_L2/%d/%03d',year,doy);
+        %Creat folders 
         path = sprintf('./Terra_L2/%d/%03d',year,doy);
         if ~exist(path)
             mkdir(path)
