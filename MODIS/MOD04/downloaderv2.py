@@ -9,16 +9,14 @@ import os
 import modapsclient
 from datetime import datetime
 
-
-
 username = "hiik324"
 password = "Ecology123"
-startdate="2019-01-01"
-enddate="2019-01-01"
-north="38.22"
-south="38.18"
-east="127.27"
-west="127.21"
+startdate="2019-08-01"
+enddate="2019-12-01"
+north="38.22346787684907"
+south="38.18195837298332"
+west="127.21710138948873"
+east="127.27222505323994"
 product="MOD04_L2"
 collection="61"
  

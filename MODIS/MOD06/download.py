@@ -11,9 +11,9 @@ import os
 
 import os 
 
-path="~/../../bess19/Image_fusion/download/MODIS/MOD07/"
+path="~/../../bess19/Image_fusion/download/MODIS/MOD06/"
 
 os.system('cd {}'.format(path)) 
 os.system('find . -size 0 -delete')  
-os.system('nohup python {0}downloaderv2.py > {0}log_MOD07.txt &'.format(path))
+os.system('nohup python {0}downloaderv2.py > {0}log_MOD06.txt &'.format(path))
 

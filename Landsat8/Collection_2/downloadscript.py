@@ -23,6 +23,5 @@ ee = EarthExplorer(username, password)
 for s in scenes:
     print(s)
     print(s["displayId"])
-    #ee.download(scenes[0]["landsat_scene_id"], output_dir='./')
-    ee.download(scenes[0]["entityId"], output_dir='./')
+    ee.download(s["entityId"], output_dir='./')
  

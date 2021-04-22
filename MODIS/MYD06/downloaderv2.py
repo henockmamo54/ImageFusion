@@ -17,7 +17,7 @@ north="38.22346787684907"
 south="38.18195837298332"
 west="127.21710138948873"
 east="127.27222505323994"
-product="MOD07_L2"
+product="MYD06_L2"
 collection="61"
  
 startdate_obj = datetime.strptime(startdate, '%Y-%m-%d')
