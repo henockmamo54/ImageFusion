@@ -1,0 +1,38 @@
+<PAMDataset>
+  <Subdataset name="albedo">
+    <PAMDataset>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MAXIMUM">0.17617946863174</MDI>
+          <MDI key="STATISTICS_MEAN">0.1732840637366</MDI>
+          <MDI key="STATISTICS_MINIMUM">0.17051453888416</MDI>
+          <MDI key="STATISTICS_STDDEV">0.0017803164229699</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="longitude">
+    <PAMDataset>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MAXIMUM">127.26205786187</MDI>
+          <MDI key="STATISTICS_MEAN">127.2379153526</MDI>
+          <MDI key="STATISTICS_MINIMUM">127.21375307139</MDI>
+          <MDI key="STATISTICS_STDDEV">0.019401944931721</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="latitude">
+    <PAMDataset>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MAXIMUM">38.242450984053</MDI>
+          <MDI key="STATISTICS_MEAN">38.216088083595</MDI>
+          <MDI key="STATISTICS_MINIMUM">38.189730604693</MDI>
+          <MDI key="STATISTICS_STDDEV">0.021480269146876</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+</PAMDataset>

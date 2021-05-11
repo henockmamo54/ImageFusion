@@ -69,7 +69,7 @@ for FIELD_NAME in FIELD_NAMEs:
     OUTGRID_Y_PIXELSIZE = {4}
     RESAMPLING_TYPE = NN
     OUTPUT_PROJECTION_TYPE = UTM
-    ELLIPSOID_CODE = WGS84
+    ELLIPSOID_CODE = WGS84D:/Workplace/githubProjects/ImageFusion/MODIS/ReprojectionCropping/ReprojectionCroppingScript_o.py
     UTM_ZONE = 52
     OUTPUT_PROJECTION_PARAMETERS = ( 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0  )
     OUTPUT_FILENAME = {5}/{6}_{3}.tif
