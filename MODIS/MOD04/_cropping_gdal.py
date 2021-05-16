@@ -13,9 +13,12 @@ os.system('export PATH="/usr/local/anaconda/bin:$PATH"')
  
 
 
-path ="/bess19/Image_fusion/download/MODIS/MCD43A4/Stitched/"  
+path ="/bess19/Image_fusion/download/MODIS/MOD04/Stitched/"  
 # path = "D:\Workplace\githubProjects\ImageFusion\MODIS\ReprojectionCropping\TestData/"
-pathoutput="/bess19/Image_fusion/download/MODIS/MCD43A4/Cropped/" 
+pathoutput="/bess19/Image_fusion/download/MODIS/MOD04/Cropped/" 
+
+if not os.path.exists(pathoutput):
+    os.makedirs("Cropped")
  
  
 for root, dirs, files in os.walk(path):

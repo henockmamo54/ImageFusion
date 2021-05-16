@@ -12,26 +12,13 @@ os.system('export PATH="/usr/local/anaconda/bin:$PATH"')
  
 
 
-path ="/bess19/Image_fusion/download/MODIS/MCD43A4/2019" 
-OBJECT_NAME = "MOD_Grid_BRDF"
+path ="/bess19/Image_fusion/download/MODIS/MOD04/2019" 
+OBJECT_NAME = "mod04"
 FIELD_NAME = ""
 PIXELSIZE = 480.0
-pathoutput="/bess19/Image_fusion/download/MODIS/MCD43A4/Stitched/" 
+pathoutput="/bess19/Image_fusion/download/MODIS/MOD04/Stitched/" 
 
-FIELD_NAMEs=["BRDF_Albedo_Band_Mandatory_Quality_Band1",
-"BRDF_Albedo_Band_Mandatory_Quality_Band2",
-"BRDF_Albedo_Band_Mandatory_Quality_Band3",
-"BRDF_Albedo_Band_Mandatory_Quality_Band4",
-"BRDF_Albedo_Band_Mandatory_Quality_Band5",
-"BRDF_Albedo_Band_Mandatory_Quality_Band6",
-"BRDF_Albedo_Band_Mandatory_Quality_Band7",
-"Nadir_Reflectance_Band1",
-"Nadir_Reflectance_Band2",
-"Nadir_Reflectance_Band3",
-"Nadir_Reflectance_Band4",
-"Nadir_Reflectance_Band5",
-"Nadir_Reflectance_Band6",
-"Nadir_Reflectance_Band7"]
+FIELD_NAMEs=["Deep_Blue_Aerosol_Optical_Depth_550_Land"]
 
 
 # group products from the same date
@@ -57,16 +44,9 @@ for FIELD_NAME in FIELD_NAMEs:
         gdalscript="gdal_merge.py "+oututparameter
         
         for filename in datadict[i]["Files"]: 
-            gdalscript +=' HDF4_EOS:EOS_GRID:"{0}":{1}:{2}'.format(filename,OBJECT_NAME,FIELD_NAME)
+            gdalscript +=' HDF4_EOS:EOS_SWATH:"{0}":{1}:{2}'.format(filename,OBJECT_NAME,FIELD_NAME)
           
         print(gdalscript,'\n -------- \n')
         
         os.system(gdalscript)
-    
-    
-    
-    
-    
-    
-    
     

@@ -36,3 +36,5 @@ Landsat8/angle calculator/LC08_L1TP_116033_20180101_20180104_01_T1_sensor_B01.im
 *.hdf
 *.tif
 *.met
+GK2A/test/gk2a_ami_le1b_vi004_fd010ge_201908150250.nc.filepart
+*.hdr

@@ -20,8 +20,8 @@ pathoutput="/bess19/Image_fusion/download/MODIS/MCD43A4/Reprojected/"
 for root, dirs, files in os.walk(path):
       
     for file in files:
-          
-        gdalscript="gdalwarp -t_srs EPSG:32652  -r near -tr 500 500 {0} {1}".format((path+file),(pathoutput+file))
+         
+        gdalscript="gdalwarp -t_srs EPSG:32652  -r near -tr 480 480 "+ (path+file) + " "+(pathoutput+file)
         print(gdalscript)
         os.system(gdalscript)
  

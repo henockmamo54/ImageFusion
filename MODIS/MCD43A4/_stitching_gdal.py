@@ -4,6 +4,9 @@ Created on Tue May 11 16:06:20 2021
 
 @author: Henock
 """
+
+
+
  
 import os
 
@@ -16,7 +19,7 @@ path ="/bess19/Image_fusion/download/MODIS/MCD43A4/2019"
 OBJECT_NAME = "MOD_Grid_BRDF"
 FIELD_NAME = ""
 PIXELSIZE = 480.0
-pathoutput="/bess19/Image_fusion/download/MODIS/MCD43A4/Stitched/" 
+pathoutput="/bess19/Image_fusion/download/MODIS/MCD43A4/RC/" 
 
 FIELD_NAMEs=["BRDF_Albedo_Band_Mandatory_Quality_Band1",
 "BRDF_Albedo_Band_Mandatory_Quality_Band2",
@@ -52,12 +55,12 @@ for root, dirs, files in os.walk(path):
 for FIELD_NAME in FIELD_NAMEs:
 # prepare the parameter file
     
-    for i in datadict: 
-        oututparameter=" -o {0}{1}_{2}.tif".format(pathoutput, datadict[i]["outputfilename"],FIELD_NAME)
+    for i in datadict:
+        oututparameter=" -o " + pathoutput+ datadict[i]["outputfilename"]+"_"+FIELD_NAME+".tif"
         gdalscript="gdal_merge.py "+oututparameter
         
-        for filename in datadict[i]["Files"]: 
-            gdalscript +=' HDF4_EOS:EOS_GRID:"{0}":{1}:{2}'.format(filename,OBJECT_NAME,FIELD_NAME)
+        for filename in datadict[i]["Files"]:
+            gdalscript +=' HDF4_EOS:EOS_GRID:"'+filename+'":'+OBJECT_NAME+':'+FIELD_NAME
           
         print(gdalscript,'\n -------- \n')
         
