@@ -14,7 +14,7 @@ os.system('export PATH="/usr/local/anaconda/bin:$PATH"')
 
 
 path ="/bess19/Image_fusion/download/MODIS/MOD04/Stitched/"  
-# path = "D:\Workplace\githubProjects\ImageFusion\MODIS\ReprojectionCropping\TestData/"
+# path ="/bess19/Image_fusion/download/MODIS/MOD04/Cropped1/"  
 pathoutput="/bess19/Image_fusion/download/MODIS/MOD04/Cropped/" 
 
 if not os.path.exists(pathoutput):
@@ -24,7 +24,13 @@ if not os.path.exists(pathoutput):
 for root, dirs, files in os.walk(path):
       
     for file in files:
-        gdalscript="gdalwarp -of GTiff -t_srs EPSG:4326 -te 127.21710138948873 38.18195837298332 127.27222505323994 38.22346787684907 {0} {1}".format((path+file),(pathoutput+file))
+        # gdalscript="gdalwarp -of GTiff -t_srs EPSG:4326 -te 127.21710138948873 38.18195837298332 127.27222505323994 39.22346787684907 {0} {1}".format((path+file),(pathoutput+file))
+        # gdalscript="gdalwarp -of GTiff -t_srs EPSG:4326 -te 127.217101389 38.323467877 127.372225053 38.181958373 {0} {1}".format((path+file),(pathoutput+file))
+        # gdalscript="gdalwarp -of GTiff -t_srs EPSG:4326 -te 127.21710138948873 127.27222505323994 38.18195837298332 38.22346787684907 {0} {1}".format((path+file),(pathoutput+file))
+        # gdalscript="gdalwarp -of GTiff -t_srs EPSG:4326 {0} {1}".format((path+file),(pathoutput+file))
+        # gdalscript="gdal_translate -projwin 125.640870434 50.824895844 127.644920487 49.702627814 -of GTiff {0} {1}".format((path+file),(pathoutput+file))
+        # gdalscript="gdal_translate -projwin 127.21710138948873 38.22346787684907 127.644920487 49.702627814 -of GTiff {0} {1}".format((path+file),(pathoutput+file))
+        gdalscript="gdal_translate -projwin 127.217101389 38.293467877 127.292225053 38.181958373 -of GTiff {0} {1}".format((path+file),(pathoutput+file))
         print(gdalscript)
         os.system(gdalscript)
  
