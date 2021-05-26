@@ -14,13 +14,14 @@ os.environ['PGSHOME']='/bess19/Image_fusion/download/MODIS/HEGtool/TOOLKIT_MTD'
 os.environ['HEGUSER']='root'
 os.environ['OMP_NUM_THREADS']='1'  
 
-path ="/bess19/Image_fusion/download/MODIS/MOD04/2019" 
-pathHeader ="/bess19/Image_fusion/download/MODIS/MOD04/Header"
-OBJECT_NAME = "mod04"
+path ="/bess19/Image_fusion/download/MODIS/MOD07/2019" 
+pathHeader ="/bess19/Image_fusion/download/MODIS/MOD07/Header"
+OBJECT_NAME = "mod07"
 FIELD_NAME = "Total_Ozone"
 PIXELSIZE = 1000.0
-pathoutput="/bess19/Image_fusion/download/MODIS/MOD04/Stitched" 
-FIELD_NAMEs=["Deep_Blue_Aerosol_Optical_Depth_550_Land"]
+pathoutput="/bess19/Image_fusion/download/MODIS/MOD07/Stitched" 
+
+FIELD_NAMEs=["Total_Ozone","Water_Vapor"]
 
 if not os.path.exists(pathoutput):
     os.makedirs("Stitched")
@@ -109,6 +110,6 @@ for FIELD_NAME in FIELD_NAMEs:
             f.write(parametervalues.encode('ascii'))
         
         # execute the stitching and cropping
-        os.system("/bess19/Image_fusion/download/MODIS/HEGtool/bin/subset_stitch_swath -p /bess19/Image_fusion/download/MODIS/MOD04/param.prm")
+        os.system("/bess19/Image_fusion/download/MODIS/HEGtool/bin/subset_stitch_swath -p /bess19/Image_fusion/download/MODIS/MOD07/param.prm")
             
         

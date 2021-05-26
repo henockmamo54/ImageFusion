@@ -13,9 +13,9 @@ os.system('export PATH="/usr/local/anaconda/bin:$PATH"')
  
 
 
-path ="/bess19/Image_fusion/download/MODIS/MOD04/Stitched/"  
-# path ="/bess19/Image_fusion/download/MODIS/MOD04/Cropped1/"  
-pathoutput="/bess19/Image_fusion/download/MODIS/MOD04/Cropped/" 
+path ="/bess19/Image_fusion/download/MODIS/MOD07/Stitched/"  
+# path ="/bess19/Image_fusion/download/MODIS/MOD07/Cropped1/"  
+pathoutput="/bess19/Image_fusion/download/MODIS/MOD07/Cropped/" 
 
 if not os.path.exists(pathoutput):
     os.makedirs("Cropped")
