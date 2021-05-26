@@ -38,3 +38,16 @@ Landsat8/angle calculator/LC08_L1TP_116033_20180101_20180104_01_T1_sensor_B01.im
 *.met
 GK2A/test/gk2a_ami_le1b_vi004_fd010ge_201908150250.nc.filepart
 *.hdr
+BACKUP/HEG/heg.tar
+BACKUP/HEG/download.tar.gz
+BACKUP/HEGtool/bin/HEConvert
+BACKUP/HEGtool/data/counties.txt
+BACKUP/l8_angles/LC08_L1TP_116033_20180509_20180517_01_T1.tar.gz
+BACKUP/l8_angles2/LC08_L1TP_116033_20180509_20180517_01_T1.tar.gz
+HEGtool/bin/HEConvert
+HEGtool/data/counties.txt
+Landsat8/_angle calculator/LC08_L1TP_116033_20180101_20180104_01_T1_sensor_B01.img
+Landsat8/_l8_angles/LC08_L1TP_116033_20180509_20180517_01_T1.tar.gz
+Landsat8/_L8_angles back up/l8_angles/LC08_L1TP_116033_20180509_20180517_01_T1.tar.gz
+Landsat8/_L8_angles back up/l8_angles2/LC08_L1TP_116033_20180509_20180517_01_T1.tar.gz
+sentinel2/_backup_5_21_21/core.280881

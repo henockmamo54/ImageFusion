@@ -20,6 +20,7 @@ def parfun(Fun,Args,Cores = 36,check=False,noreturn=False,sort=True):
         ans = Ans.extend
         ansa = Ans.append
         for arg in args:
+            print("***",arg)
             if check:print('~ing\t','■'*int(n/num * 30)+'□'*(30-int(n/num * 30)),'%3d%%' % (int(n/num*100),),end='\r')
             n+=1
             a = Fun(*arg)
@@ -57,7 +58,7 @@ def parfun(Fun,Args,Cores = 36,check=False,noreturn=False,sort=True):
         print('FINISHED')
         return A
 
-years = np.arange(2019,2019,1)
+years = np.arange(2019,2020,1)
 jdays = np.arange(213,366,1)
 # jdays = np.delete(jdays, [44,45,46,50,51,52,108,109])
 hours = np.arange(1, 5, 1/6)
@@ -68,14 +69,15 @@ n=float(0)
 ANGLE = []
 aa = ANGLE.append
 # def GK2A_ANGLE(year,jday,hour,lat,lon):
+print(years)
 for year in years:
     for jday in jdays:
         for hour in hours:
             n+=1
             Args = [[year, jday, hour, lat, lon] for lat, lon in zip(lats, lons)]
-            Fun = lambda x,y: np.array(calc_solar_angle(year,jday,hour,x,y))
-            a = parfun(Fun, Args, Cores=100, check=True)
-            os.chdir('/bess21/Sungchan/GK2A_RAD/INPUT/SZA_BC')
+            Fun = lambda year,jday,hour,x,y: np.array(calc_solar_angle(year,jday,hour,x,y))
+            print("//*/*/*/",type(Fun))
+            a = parfun(Fun, Args, Cores=100, check=True)            
+            # os.chdir('/bess21/Sungchan/GK2A_RAD/INPUT/SZA_BC')
+            os.chdir('/bess19/Image_fusion/download/GK2A/anglecalculation')
             savemat('GK2A_ANGLE_KOREA2020_%03d.mat' % (n+4958), mdict={'SZA': a})
-
-})

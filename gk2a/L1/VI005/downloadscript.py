@@ -53,10 +53,11 @@ def down_gk2a(_st, lv, ch, AREA, down_dir):
             continue
         
         st = st + timedelta(minutes=10)
- 
+
+
 
 startdate="2019-08-01"
-enddate="2019-12-01"
+enddate="2020-01-01"
 
 startdate = datetime.strptime(startdate, '%Y-%m-%d')
 enddate = datetime.strptime(enddate, '%Y-%m-%d')
@@ -64,7 +65,7 @@ enddate = datetime.strptime(enddate, '%Y-%m-%d')
 path = os.path.join("./",str(startdate.year))
 lv="LE1B"
 ch="VI005"
-AREA="KO"
+AREA="FD"
 date= startdate
 while date <= enddate:
     try:

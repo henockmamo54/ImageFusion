@@ -1,0 +1,369 @@
+2019-08-01 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201908010000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-08-01 00:00:00')
+2019-08-02 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201908020000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-08-02 00:00:00')
+2019-08-03 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201908030000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-08-03 00:00:00')
+2019-08-04 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201908040000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-08-04 00:00:00')
+2019-08-05 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201908050000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-08-05 00:00:00')
+2019-08-06 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201908060000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-08-06 00:00:00')
+2019-08-07 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201908070000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-08-07 00:00:00')
+2019-08-08 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201908080000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-08-08 00:00:00')
+2019-08-09 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201908090000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-08-09 00:00:00')
+2019-08-10 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201908100000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-08-10 00:00:00')
+2019-08-11 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201908110000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-08-11 00:00:00')
+2019-08-12 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201908120000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-08-12 00:00:00')
+2019-08-13 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201908130000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-08-13 00:00:00')
+2019-08-14 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201908140000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-08-14 00:00:00')
+2019-08-15 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201908150000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-08-15 00:00:00')
+2019-08-16 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201908160000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-08-16 00:00:00')
+2019-08-17 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201908170000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-08-17 00:00:00')
+2019-08-18 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201908180000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-08-18 00:00:00')
+2019-08-19 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201908190000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-08-19 00:00:00')
+2019-08-20 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201908200000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-08-20 00:00:00')
+2019-08-21 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201908210000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-08-21 00:00:00')
+2019-08-22 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201908220000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-08-22 00:00:00')
+2019-08-23 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201908230000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-08-23 00:00:00')
+2019-08-24 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201908240000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-08-24 00:00:00')
+2019-08-25 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201908250000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-08-25 00:00:00')
+2019-08-26 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201908260000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-08-26 00:00:00')
+2019-08-27 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201908270000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-08-27 00:00:00')
+2019-08-28 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201908280000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-08-28 00:00:00')
+2019-08-29 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201908290000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-08-29 00:00:00')
+2019-08-30 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201908300000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-08-30 00:00:00')
+2019-08-31 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201908310000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-08-31 00:00:00')
+2019-09-01 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201909010000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-09-01 00:00:00')
+2019-09-02 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201909020000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-09-02 00:00:00')
+2019-09-03 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201909030000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-09-03 00:00:00')
+2019-09-04 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201909040000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-09-04 00:00:00')
+2019-09-05 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201909050000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-09-05 00:00:00')
+2019-09-06 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201909060000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-09-06 00:00:00')
+2019-09-07 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201909070000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-09-07 00:00:00')
+2019-09-08 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201909080000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-09-08 00:00:00')
+2019-09-09 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201909090000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-09-09 00:00:00')
+2019-09-10 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201909100000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-09-10 00:00:00')
+2019-09-11 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201909110000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-09-11 00:00:00')
+2019-09-12 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201909120000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-09-12 00:00:00')
+2019-09-13 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201909130000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-09-13 00:00:00')
+2019-09-14 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201909140000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-09-14 00:00:00')
+2019-09-15 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201909150000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-09-15 00:00:00')
+2019-09-16 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201909160000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-09-16 00:00:00')
+2019-09-17 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201909170000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-09-17 00:00:00')
+2019-09-18 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201909180000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-09-18 00:00:00')
+2019-09-19 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201909190000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-09-19 00:00:00')
+2019-09-20 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201909200000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-09-20 00:00:00')
+2019-09-21 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201909210000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-09-21 00:00:00')
+2019-09-22 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201909220000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-09-22 00:00:00')
+2019-09-23 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201909230000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-09-23 00:00:00')
+2019-09-24 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201909240000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-09-24 00:00:00')
+2019-09-25 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201909250000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-09-25 00:00:00')
+2019-09-26 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201909260000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-09-26 00:00:00')
+2019-09-27 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201909270000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-09-27 00:00:00')
+2019-09-28 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201909280000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-09-28 00:00:00')
+2019-09-29 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201909290000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-09-29 00:00:00')
+2019-09-30 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201909300000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-09-30 00:00:00')
+2019-10-01 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201910010000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-10-01 00:00:00')
+2019-10-02 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201910020000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-10-02 00:00:00')
+2019-10-03 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201910030000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-10-03 00:00:00')
+2019-10-04 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201910040000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-10-04 00:00:00')
+2019-10-05 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201910050000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-10-05 00:00:00')
+2019-10-06 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201910060000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-10-06 00:00:00')
+2019-10-07 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201910070000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-10-07 00:00:00')
+2019-10-08 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201910080000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-10-08 00:00:00')
+2019-10-09 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201910090000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-10-09 00:00:00')
+2019-10-10 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201910100000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-10-10 00:00:00')
+2019-10-11 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201910110000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-10-11 00:00:00')
+2019-10-12 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201910120000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-10-12 00:00:00')
+2019-10-13 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201910130000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-10-13 00:00:00')
+2019-10-14 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201910140000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-10-14 00:00:00')
+2019-10-15 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201910150000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-10-15 00:00:00')
+2019-10-16 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201910160000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-10-16 00:00:00')
+2019-10-17 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201910170000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-10-17 00:00:00')
+2019-10-18 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201910180000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-10-18 00:00:00')
+2019-10-19 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201910190000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-10-19 00:00:00')
+2019-10-20 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201910200000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-10-20 00:00:00')
+2019-10-21 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201910210000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-10-21 00:00:00')
+2019-10-22 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201910220000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-10-22 00:00:00')
+2019-10-23 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201910230000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-10-23 00:00:00')
+2019-10-24 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201910240000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-10-24 00:00:00')
+2019-10-25 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201910250000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-10-25 00:00:00')
+2019-10-26 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201910260000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-10-26 00:00:00')
+2019-10-27 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201910270000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-10-27 00:00:00')
+2019-10-28 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201910280000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-10-28 00:00:00')
+2019-10-29 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201910290000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-10-29 00:00:00')
+2019-10-30 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201910300000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-10-30 00:00:00')
+2019-10-31 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201910310000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-10-31 00:00:00')
+2019-11-01 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201911010000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-11-01 00:00:00')
+2019-11-02 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201911020000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-11-02 00:00:00')
+2019-11-03 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201911030000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-11-03 00:00:00')
+2019-11-04 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201911040000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-11-04 00:00:00')
+2019-11-05 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201911050000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-11-05 00:00:00')
+2019-11-06 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201911060000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-11-06 00:00:00')
+2019-11-07 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201911070000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-11-07 00:00:00')
+2019-11-08 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201911080000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-11-08 00:00:00')
+2019-11-09 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201911090000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-11-09 00:00:00')
+2019-11-10 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201911100000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-11-10 00:00:00')
+2019-11-11 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201911110000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-11-11 00:00:00')
+2019-11-12 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201911120000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-11-12 00:00:00')
+2019-11-13 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201911130000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-11-13 00:00:00')
+2019-11-14 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201911140000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-11-14 00:00:00')
+2019-11-15 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201911150000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-11-15 00:00:00')
+2019-11-16 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201911160000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-11-16 00:00:00')
+2019-11-17 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201911170000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-11-17 00:00:00')
+2019-11-18 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201911180000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-11-18 00:00:00')
+2019-11-19 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201911190000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-11-19 00:00:00')
+2019-11-20 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201911200000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-11-20 00:00:00')
+2019-11-21 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201911210000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-11-21 00:00:00')
+2019-11-22 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201911220000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-11-22 00:00:00')
+2019-11-23 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201911230000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-11-23 00:00:00')
+2019-11-24 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201911240000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-11-24 00:00:00')
+2019-11-25 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201911250000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-11-25 00:00:00')
+2019-11-26 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201911260000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-11-26 00:00:00')
+2019-11-27 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201911270000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-11-27 00:00:00')
+2019-11-28 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201911280000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-11-28 00:00:00')
+2019-11-29 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201911290000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-11-29 00:00:00')
+2019-11-30 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201911300000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-11-30 00:00:00')
+2019-12-01 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=201912010000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+('Error on ', '2019-12-01 00:00:00')
