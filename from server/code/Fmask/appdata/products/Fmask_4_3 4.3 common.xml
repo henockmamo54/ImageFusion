@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<productData>
+   <dependsOn>
+      <component>
+         <name>Fmask_4_3</name>
+         <locale/>
+         <platformList>
+            <platform>glnxa64</platform>
+            <platform>maci64</platform>
+            <platform>win32</platform>
+            <platform>win64</platform>
+         </platformList>
+         <version>4.3</version>
+      </component>
+   </dependsOn>
+   <installerUsage>
+      <usage>mcr</usage>
+   </installerUsage>
+   <isControllingProduct>true</isControllingProduct>
+   <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+   </platformList>
+   <productName>Fmask_4_3</productName>
+   <productNumber>5000</productNumber>
+   <productBaseCode>Fmask_4_3</productBaseCode>
+   <productVersion>4.3</productVersion>
+   <releaseFamily>R2019a</releaseFamily>
+   <releaseDescription>R2019a</releaseDescription>
+   <requiredProducts/>
+</productData>

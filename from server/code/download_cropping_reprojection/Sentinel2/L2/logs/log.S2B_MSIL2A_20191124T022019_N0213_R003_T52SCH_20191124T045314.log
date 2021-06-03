@@ -1,0 +1,15 @@
+--2021-05-26 18:02:00--  https://scihub.copernicus.eu/dhus/odata/v1/Products('7acd34cc-2ae1-401b-a41b-f1f42e803f83')/$value
+Resolving scihub.copernicus.eu (scihub.copernicus.eu)... 146.59.215.226
+Connecting to scihub.copernicus.eu (scihub.copernicus.eu)|146.59.215.226|:443... connected.
+HTTP request sent, awaiting response... 401 Unauthorized
+Reusing existing connection to scihub.copernicus.eu:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 949247776 (905M) [application/octet-stream]
+Saving to: ‘/bess19/Image_fusion/download/sentinel2/L2/S2B_MSIL2A_20191124T022019_N0213_R003_T52SCH_20191124T045314.zip’
+
+     0K .......... .......... .......... .......... .......... 55%  359K 19m17s
+512000K .......... .......... .......... ..........           100%  403K=40m58s
+
+Last-modified header invalid -- time-stamp ignored.
+2021-05-26 18:43:00 (377 KB/s) - ‘/bess19/Image_fusion/download/sentinel2/L2/S2B_MSIL2A_20191124T022019_N0213_R003_T52SCH_20191124T045314.zip’ saved [949247776/949247776]
+

@@ -1,0 +1,108 @@
+
+*************************************
+   (subset_stitch_swath)   
+Start Time:  Tue May 25 23:45:24 2021
+
+**************************************
+
+Listing Command Line Options:
+ /bess19/Image_fusion/download/MODIS/HEGtool/bin/subset_stitch_swath -p /bess19/Image_fusion/code/download_cropping_reprojection/MODIS/MOD07/param.prm 
+
+
+ Processing request number 1... 
+
+ReadParameterFile_St: Warning:  Invalid field |
+ReadParameterFile_St: Warning:  Invalid field |
+ Detected ? at the end of /bess19/Image_fusion/code/download_cropping_reprojection/MODIS/MOD07/filetable.temp_256807 in try #1. No problem with this file.
+Input #1 product shortname = MOD07_L2
+ Detected ? at the end of /bess19/Image_fusion/code/download_cropping_reprojection/MODIS/MOD07/filetable.temp_256807 in try #1. No problem with this file.
+Input #2 product shortname = MOD07_L2
+
+
+ INPUTS Read from Parameter file:
+	 NUMBER_INPUTFILES = 2
+	 outputfilename = /bess19/Image_fusion/pre_process/MODIS/MOD07/Stitched/MOD07_L2A2019216_Total_Ozone.tif_temp.hdf
+	 objectname = mod07
+	 outobjectname = mod07
+	 fieldname = Total_Ozone
+	 selected_band = 1
+	 subsetting_upleft_lat = 50.393299 
+	 subsetting_upleft_lon = 103.597023 
+	 subsetting_lowright_lat = 28.740454 
+	 subsetting_lowright_lon = 138.856079 
+	 x_outpixelsize = 0.059004 
+	 y_outpixelsize = 0.045182 
+	 outputprojtype = GEO 
+	 ellipsecode = WGS84
+
+	 Input hdf file number 1 :
+/bess19/Image_fusion/download/MODIS/MOD07/2019/MOD07_L2.A2019216.0250.061.2019216130527.hdf
+	 Input hdf file number 2 :
+/bess19/Image_fusion/download/MODIS/MOD07/2019/MOD07_L2.A2019216.1355.061.2019217010845.hdf
+Warning: No map relation in the swath mod07 in file #1. Assuming default values for offset and increament.
+
+Please wait. Getting corners for the swath in file #1 .....
+Warning: No map relation in the swath mod07 in file #2. Assuming default values for offset and increament.
+
+Please wait. Getting corners for the swath in file #2 .....
+
+
+ ************** Processing File #1 **************
+
+
+Please wait. Reading lats/lons .....
+Swath temp files for lals/lons will require about 876 KB of disk space (in the disk containing heg's bin directory).
+
+Please wait. interpolating lats/lons .....
+Finished reading/interpolating lats, doing lons .....
+
+	********* Output Grid *********
+
+Corners [DMS Degrees]:
+UL : Lat = 50023035.876400 	 Lon = 103035049.282800
+UR : Lat = 50023035.876400 	 Lon = 138051021.884400
+LR : Lat = 28044025.634400 	 Lon = 138051021.884400
+LL : Lat = 28044025.634400 	 Lon = 103035049.282800
+ 
+
+Corners [Decimal Degrees]:
+UL : Lat = 50.393299 	 Lon = 103.597023
+UR : Lat = 50.393299 	 Lon = 138.856079
+LR : Lat = 28.740454 	 Lon = 138.856079
+LL : Lat = 28.740454 	 Lon = 103.597023
+ 
+
+ Output Grid Sizes for GEO projection:
+
+	 X dimension: 597 	 Y dimension: 479
+
+ Actual Output Grid Pixel Sizes(Decimal Degrees):
+	Xpixel =geooffsetx 0.059060 	 Ypixel = 0.045204 
+
+	 Number of rows in input data field = 406 offsety = 0
+	 Number of cols in input data field = 270 offsetx = 0
+	 Number of rows in input lat/lon field = 406
+	 Number of cols in input lat/lon field = 270
+
+	 Number of rows of input data to be processed length = 405 minus offsety
+	 Number of cols of input data to be processed width  = 269 minus offsetx
+% of Swath to Grid conversion for file # 1: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Please wait. Filling grid cells .....
+
+
+ ************** Processing File #2 **************
+
+
+Please wait. Reading lats/lons .....
+Swath temp files for lals/lons will require about 876 KB of disk space (in the disk containing heg's bin directory).
+
+Please wait. interpolating lats/lons .....
+Finished reading/interpolating lats, doing lons .....
+	 Number of rows in input data field = 406 offsety = 0
+	 Number of cols in input data field = 270 offsetx = 0
+	 Number of rows in input lat/lon field = 406
+	 Number of cols in input lat/lon field = 270
+
+	 Number of rows of input data to be processed length = 405 minus offsety
+	 Number of cols of input data to be processed width  = 269 minus offsetx
+% of Swath to Grid conversion for file # 2: 0%

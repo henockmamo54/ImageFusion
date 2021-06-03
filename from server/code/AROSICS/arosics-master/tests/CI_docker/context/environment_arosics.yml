@@ -1,0 +1,44 @@
+name: arosics
+
+channels: &id1
+  - conda-forge
+
+dependencies:
+  - python=3.*.*
+  - pip
+  - cartopy
+  - cmocean
+  - gdal
+  - geoarray>=0.12.1
+  - geopandas
+  - holoviews
+  - ipython  # needed to test interactive plotting
+  - matplotlib
+  - numpy
+  - pandas
+  - pyfftw
+  - pykrige
+  - pyproj>2.2.0
+  - py-tools-ds>=0.17.0
+  - scikit-image>=0.16.0
+  - shapely
+
+  - pip:
+    - folium>=0.6.0,!=0.12.0
+    - geojson
+    - plotly
+
+    # doc requirements
+    - coverage
+    - flake8
+    - nose
+    - nose2
+    - nose-htmloutput
+    - pycodestyle
+    - pydocstyle
+    - pylint
+    - rednose
+    - sphinx-argparse
+    - sphinx-autodoc-typehints
+    - sphinx_rtd_theme
+    - urlchecker

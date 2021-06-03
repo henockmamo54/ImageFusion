@@ -1,0 +1,18 @@
+
+*************************************
+   (subset_stitch_swath)   
+Start Time:  Tue May 25 22:37:40 2021
+
+**************************************
+
+Listing Command Line Options:
+ /bess19/Image_fusion/download/MODIS/HEGtool/bin/subset_stitch_swath -p /bess19/Image_fusion/download/MODIS/MOD04/param.prm 
+
+
+ Processing request number 1... 
+
+ReadParameterFile_St: Warning:  Invalid field |
+ReadParameterFile_St: Warning:  Invalid field |
+ Detected ? at the end of /bess19/Image_fusion/code/download_cropping_reprojection/MODIS/MOD04/filetable.temp_232317 in try #1. No problem with this file.
+Input #1 product shortname = MOD04_L2
+ Detected ? at the end of /bess19/Image_fusion/code/download_cropping_reprojection/MODIS/MOD04/filetable.temp_232317 in try #1. No problem with this file.

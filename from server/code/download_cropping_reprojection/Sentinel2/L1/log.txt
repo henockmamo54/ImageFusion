@@ -1,0 +1,36 @@
+/bess19/Image_fusion/download/Sentinel2/L1/S2A_MSIL1C_20191129T022031_N0208_R003_T52SCH_20191129T041428.zip 
+ /bess19/Image_fusion/download/Sentinel2/L1/extracted/S2A_MSIL1C_20191129T022031_N0208_R003_T52SCH_20191129T041428.zip
+/bess19/Image_fusion/download/Sentinel2/L1/S2B_MSIL1C_20191124T022019_N0208_R003_T52SCH_20191124T040054.zip 
+ /bess19/Image_fusion/download/Sentinel2/L1/extracted/S2B_MSIL1C_20191124T022019_N0208_R003_T52SCH_20191124T040054.zip
+/bess19/Image_fusion/download/Sentinel2/L1/S2A_MSIL1C_20191119T022001_N0208_R003_T52SCH_20191119T041731.zip 
+ /bess19/Image_fusion/download/Sentinel2/L1/extracted/S2A_MSIL1C_20191119T022001_N0208_R003_T52SCH_20191119T041731.zip
+/bess19/Image_fusion/download/Sentinel2/L1/S2B_MSIL1C_20200103T022059_N0208_R003_T52SCH_20200103T040042.zip 
+ /bess19/Image_fusion/download/Sentinel2/L1/extracted/S2B_MSIL1C_20200103T022059_N0208_R003_T52SCH_20200103T040042.zip
+/bess19/Image_fusion/download/Sentinel2/L1/S2B_MSIL1C_20200123T021959_N0208_R003_T52SCH_20200123T040107.zip 
+ /bess19/Image_fusion/download/Sentinel2/L1/extracted/S2B_MSIL1C_20200123T021959_N0208_R003_T52SCH_20200123T040107.zip
+/bess19/Image_fusion/download/Sentinel2/L1/S2B_MSIL1C_20200323T021559_N0209_R003_T52SCH_20200323T040141.zip 
+ /bess19/Image_fusion/download/Sentinel2/L1/extracted/S2B_MSIL1C_20200323T021559_N0209_R003_T52SCH_20200323T040141.zip
+/bess19/Image_fusion/download/Sentinel2/L1/S2B_MSIL1C_20200601T021609_N0209_R003_T52SCH_20200601T040642.zip 
+ /bess19/Image_fusion/download/Sentinel2/L1/extracted/S2B_MSIL1C_20200601T021609_N0209_R003_T52SCH_20200601T040642.zip
+/bess19/Image_fusion/download/Sentinel2/L1/S2B_MSIL1C_20200621T021609_N0209_R003_T52SCH_20200621T040543.zip 
+ /bess19/Image_fusion/download/Sentinel2/L1/extracted/S2B_MSIL1C_20200621T021609_N0209_R003_T52SCH_20200621T040543.zip
+/bess19/Image_fusion/download/Sentinel2/L1/S2B_MSIL1C_20200721T021609_N0209_R003_T52SCH_20200721T035747.zip 
+ /bess19/Image_fusion/download/Sentinel2/L1/extracted/S2B_MSIL1C_20200721T021609_N0209_R003_T52SCH_20200721T035747.zip
+/bess19/Image_fusion/download/Sentinel2/L1/S2B_MSIL1C_20200919T021609_N0209_R003_T52SCH_20200919T043016.zip 
+ /bess19/Image_fusion/download/Sentinel2/L1/extracted/S2B_MSIL1C_20200919T021609_N0209_R003_T52SCH_20200919T043016.zip
+/bess19/Image_fusion/download/Sentinel2/L1/S2B_MSIL1C_20201009T021609_N0209_R003_T52SCH_20201009T035742.zip 
+ /bess19/Image_fusion/download/Sentinel2/L1/extracted/S2B_MSIL1C_20201009T021609_N0209_R003_T52SCH_20201009T035742.zip
+/bess19/Image_fusion/download/Sentinel2/L1/S2B_MSIL1C_20180622T021559_N0206_R003_T52SCH_20180622T040637.zip 
+ /bess19/Image_fusion/download/Sentinel2/L1/extracted/S2B_MSIL1C_20180622T021559_N0206_R003_T52SCH_20180622T040637.zip
+/bess19/Image_fusion/download/Sentinel2/L1/S2A_MSIL1C_20190503T021611_N0207_R003_T52SCH_20190503T041821.zip 
+ /bess19/Image_fusion/download/Sentinel2/L1/extracted/S2A_MSIL1C_20190503T021611_N0207_R003_T52SCH_20190503T041821.zip
+/bess19/Image_fusion/download/Sentinel2/L1/.zip 
+ /bess19/Image_fusion/download/Sentinel2/L1/extracted/.zip
+Traceback (most recent call last):
+  File "fileextractor.py", line 18, in <module>
+    with zipfile.ZipFile(path_to_zip_file, 'r') as zip_ref:
+  File "/usr/local/anaconda/lib/python3.7/zipfile.py", line 1222, in __init__
+    self._RealGetContents()
+  File "/usr/local/anaconda/lib/python3.7/zipfile.py", line 1289, in _RealGetContents
+    raise BadZipFile("File is not a zip file")
+zipfile.BadZipFile: File is not a zip file

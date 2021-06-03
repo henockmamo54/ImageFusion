@@ -1,0 +1,26 @@
+min_similar: 30  # set the minimum sample size of similar pixels, 20~40 recommended
+num_class: 4  # set the number of classes (given empirically)
+num_band: 6  # set the number of bands in each image
+DN_min: 0.0  # set the range of DN value of the image,If byte, 0 and 255
+DN_max: 10000.0
+patch_long: 500  # set the size of block, if process whole Landsat scene, 500-1000 recommended
+DOY: [17, 33, 40, 56, 65, 97, 104, 136, 145, 168, 184, 193, 200, 209, 216]  # Day of year of each image in the time-series
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

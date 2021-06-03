@@ -1,0 +1,12 @@
+
+*************************************
+   (subset_stitch_grid)   
+Start Time:  Sun May  2 13:39:20 2021
+
+**************************************
+
+Listing Command Line Options:
+ subset_stitch_grid -p HegGridStitch.prm_root 
+
+ Error: Failed to get environment variable MRTDATADIR. Not setting it may cause some problems later.
+One of the environment vaiables PWD, MRTDATADIR, PGSHOME, or MRTBINDIR has not been set or has an illegal space in it(status = -1).

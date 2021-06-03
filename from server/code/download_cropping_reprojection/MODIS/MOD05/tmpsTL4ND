@@ -1,0 +1,4 @@
+
+Listing Command Line Options:
+ /bess19/Image_fusion/code/HEGtool/bin/hegtool -n /bess19/Image_fusion/download/MODIS/MOD05/2019/MOD05_L2.A2019221.1235.061.2019222011605.hdf /bess19/Image_fusion/pre_process/MODIS/MOD05/Header/MOD05_L2.A2019221.1235.061.2019222011605.hdr 
+

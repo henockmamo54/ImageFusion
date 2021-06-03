@@ -1,0 +1,30 @@
+2021-01-01 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=202101010000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+Complete to download: gk2a_ami_le2_tpw_ko020lc_202101010000.nc
+2021-01-02 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=202101020000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+Complete to download: gk2a_ami_le2_tpw_ko020lc_202101020000.nc
+2021-01-03 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=202101030000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+Complete to download: gk2a_ami_le2_tpw_ko020lc_202101030000.nc
+2021-01-04 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=202101040000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+Complete to download: gk2a_ami_le2_tpw_ko020lc_202101040000.nc
+2021-01-05 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=202101050000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+Complete to download: gk2a_ami_le2_tpw_ko020lc_202101050000.nc
+2021-01-06 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=202101060000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+Complete to download: gk2a_ami_le2_tpw_ko020lc_202101060000.nc
+2021-01-07 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=202101070000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+Complete to download: gk2a_ami_le2_tpw_ko020lc_202101070000.nc
+2021-01-08 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=202101080000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+Complete to download: gk2a_ami_le2_tpw_ko020lc_202101080000.nc
+2021-01-09 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=202101090000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+Complete to download: gk2a_ami_le2_tpw_ko020lc_202101090000.nc
+2021-01-10 00:00:00
+http://api.nmsc.kma.go.kr:9080/api/GK2A/LE2/TPW/KO/data?date=202101100000&key=NMSC26280a3e24eb4986a669f82b906e3c7f
+Complete to download: gk2a_ami_le2_tpw_ko020lc_202101100000.nc

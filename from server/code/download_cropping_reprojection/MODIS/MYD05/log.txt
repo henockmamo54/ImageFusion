@@ -1,0 +1,462 @@
+Creating output file that is 14P x 21L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019240_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019213_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019242_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019214_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019241_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019215_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019243_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 21L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019216_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019244_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 21L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019217_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019245_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019218_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019246_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019219_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019247_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019220_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 21L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019248_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019221_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 21L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019249_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019222_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019252_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 21L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019223_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019253_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 21L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019224_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019254_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019225_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019255_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019226_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 21L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019256_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019227_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019257_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019228_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019240_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019240_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019213_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019213_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019242_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019242_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019214_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019214_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019241_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019241_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019215_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019215_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019243_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019243_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019216_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019216_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019244_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019244_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019217_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019217_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019245_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019245_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019218_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019218_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019246_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019246_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019219_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019219_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019247_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019247_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019220_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019220_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019248_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019248_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019221_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019221_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019249_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019249_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019222_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019222_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019252_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019252_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019223_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019223_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019253_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019253_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019224_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019224_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019254_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019254_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019225_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019225_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019255_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019255_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019226_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019226_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019256_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019256_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019227_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019227_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019257_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019257_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019228_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019228_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019258_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019258_Water_Vapor_Near_Infrared.tifCreating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019258_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019229_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019259_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019230_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019260_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019231_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019261_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 21L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019232_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019262_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 21L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019233_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019263_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019234_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 21L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019264_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019235_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 21L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019265_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019236_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019266_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019237_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019267_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019238_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019268_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 21L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019239_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019250_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019269_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019251_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019270_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 21L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019271_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 21L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019272_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019273_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019274_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019275_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019276_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019277_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019229_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019229_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019259_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019259_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019230_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019230_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019260_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019260_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019231_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019231_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019261_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019261_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019232_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019232_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019262_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019262_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019233_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019233_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019263_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019263_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019234_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019234_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019264_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019264_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019235_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019235_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019265_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019265_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019236_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019236_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019266_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019266_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019237_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019237_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019267_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019267_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019238_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019238_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019268_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019268_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019239_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019239_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019250_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019250_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019269_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019269_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019251_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019251_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019270_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019270_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019271_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019271_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019272_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019272_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019273_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019273_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019274_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019274_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019275_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019275_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019276_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019276_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019277_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019277_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019278_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019278_Water_Vapor_Near_Infrared.tifCreating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019278_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019279_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 21L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019280_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 21L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019281_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019282_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019283_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019284_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019285_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019286_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 21L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019287_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019288_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019289_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019290_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019291_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019292_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019293_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019294_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019295_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 21L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019296_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 21L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019297_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019298_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019299_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019300_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019301_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019302_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 21L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019303_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019304_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019305_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019306_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019307_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019308_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019309_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019310_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019279_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019279_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019280_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019280_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019281_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019281_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019282_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019282_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019283_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019283_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019284_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019284_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019285_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019285_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019286_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019286_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019287_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019287_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019288_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019288_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019289_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019289_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019290_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019290_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019291_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019291_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019292_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019292_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019293_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019293_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019294_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019294_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019295_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019295_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019296_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019296_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019297_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019297_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019298_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019298_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019299_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019299_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019300_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019300_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019301_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019301_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019302_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019302_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019303_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019303_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019304_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019304_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019305_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019305_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019306_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019306_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019307_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019307_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019308_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019308_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019309_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019309_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019310_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019310_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019311_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019311_Water_Vapor_Near_Infrared.tifCreating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019311_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 21L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019312_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 21L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019313_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019314_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019315_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019316_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019317_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019318_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 21L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019319_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019320_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019321_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019322_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019323_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019324_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019325_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019326_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019327_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 21L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019328_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 21L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019329_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019330_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019331_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019332_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019333_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019334_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 21L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019335_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 21L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019336_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019337_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019338_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019339_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019340_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019341_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019342_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019343_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019312_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019312_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019313_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019313_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019314_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019314_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019315_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019315_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019316_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019316_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019317_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019317_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019318_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019318_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019319_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019319_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019320_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019320_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019321_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019321_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019322_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019322_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019323_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019323_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019324_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019324_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019325_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019325_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019326_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019326_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019327_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019327_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019328_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019328_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019329_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019329_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019330_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019330_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019331_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019331_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019332_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019332_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019333_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019333_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019334_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019334_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019335_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019335_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019336_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019336_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019337_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019337_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019338_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019338_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019339_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019339_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019340_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019340_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019341_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019341_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019342_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019342_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019343_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019343_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019344_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019344_Water_Vapor_Near_Infrared.tifCreating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019344_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 21L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019345_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019346_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019347_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019348_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019349_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019350_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 21L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019351_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 21L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019352_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019353_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019354_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019355_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019356_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019357_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019358_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 21L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019359_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 21L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019360_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 21L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019361_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019362_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019363_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019364_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019365_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 14P x 22L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2020001_Water_Vapor_Near_Infrared.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019345_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019345_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019346_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019346_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019347_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019347_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019348_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019348_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019349_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019349_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019350_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019350_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019351_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019351_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019352_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019352_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019353_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019353_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019354_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019354_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019355_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019355_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019356_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019356_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019357_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019357_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019358_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019358_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019359_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019359_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019360_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019360_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019361_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019361_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019362_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019362_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019363_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019363_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019364_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019364_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2019365_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2019365_Water_Vapor_Near_Infrared.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD05/Cropped/MYD05_L2A2020001_Water_Vapor_Near_Infrared.tif /bess19/Image_fusion/pre_process/MODIS/MYD05/Reprojected/MYD05_L2A2020001_Water_Vapor_Near_Infrared.tif

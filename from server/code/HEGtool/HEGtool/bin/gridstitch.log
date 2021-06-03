@@ -1,0 +1,712 @@
+
+*************************************
+   (subset_stitch_grid)   
+Start Time:  Sun May  2 13:28:59 2021
+
+**************************************
+
+Listing Command Line Options:
+ ./subset_stitch_grid -p HegGridStitch.prm_root[D[D[D 
+
+
+ Processing request number 1....... 
+
+ INPUTS Read from Parameter file:
+
+	 NUMBER_INPUTFILES = 2
+	 outputfilename = /bess19/Image_fusion/download/MODIS/HEGtool/MCD43A4.A2020238.h27v05.006.2020275001956_MOD_Grid_BRDF.tif
+	 outputstitchfilename = /bess19/Image_fusion/download/MODIS/HEGtool/MCD43A4.A2020238.h27v05.006.2020275001956_MOD_Grid_BRDF_stitched_.hdf
+	 objectname = MOD_Grid_BRDF
+	 outobjectname = MOD_Grid_BRDF
+	 fieldname = BRDF_Albedo_Band_Mandatory_Quality_Band4
+	 selected_band = 1
+	 subsetting_upleft_lat = 40.000000 
+	 subsetting_upleft_lon = 103.923048 
+	 subsetting_lowright_lat = 30.000000 
+	 subsetting_lowright_lon = 143.594802 
+	 x_outpixelsize = 490.000000 
+	 y_outpixelsize = 490.000000 
+...OUTPUT_PROJECTION_TYPE:    UTM   
+...OUTPUT_RESAMPLING_TYPE:    NN   
+Stitch     ...ELLIPSOID_CODE:            DEFAULT   
+Conversion ...ELLIPSOID_CODE:            WGS84   
+...UTM_ZONE:                  52  
+...OUTPUT_PROJECTION_PARAMETERS: (   0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  ) 
+	 Input hdf file number 1 :
+/bess19/Image_fusion/download/MODIS/HEGtool/MCD43A4.A2020238.h27v05.006.2020275001956.hdf
+	 Input hdf file number 2 :
+/bess19/Image_fusion/download/MODIS/HEGtool/MCD43A4.A2020238.h28v05.006.2020275002246.hdf
+ Detected ? at the end of /bess19/Image_fusion/download/MODIS/HEGtool/bin/filetable.temp_370009 in try #1. No problem with this file.
+=================================
+Product ShortName: MCD43A4
+=================================
+Spheroid Adjusted OUTPUT_PROJECTION_PARAMETERS: (   6371007.181000  6371007.181000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  ) 
+ Detected ? at the end of /bess19/Image_fusion/download/MODIS/HEGtool/bin/filetable.temp_370009 in try #1. No problem with this file.
+=================================
+Product ShortName: MCD43A4
+=================================
+Spheroid Adjusted OUTPUT_PROJECTION_PARAMETERS: (   6371007.181000  6371007.181000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  ) 
+ 
+Stitched grid's corners:
+
+    (easting)DMS or METERS      (northing)DMS or METERS
+UL:  10007554.677000             4447802.078667
+UR:  12231455.716333             4447802.078667
+LL:  10007554.677000             3335851.559000
+LR:  12231455.716333             3335851.559000
+ 
+    (lon)DD                (lat)DD
+UL:  117.486656             40.000000
+UR:  143.594802             40.000000
+LL:  103.923048             30.000000
+LR:  127.017059             30.000000
+ 
+ 
+Actual Pixel sizes in output grid:
+ 
+    X_Pixel_size = 489.953963 (meters)
+    Y_Pixel_size = 490.061930 (meters)
+
+	X/Y dim for the stitched grid: X_dim = 4539   Y_dim = 2269
+
+% of Grid conversion for file # 1: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+% of Grid conversion for file # 2: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+ 
+ Creating output stitch/subset files .......
+
+
+
+	X/Y dim for Subset grid: X_dim = 4539   Y_dim = 2269
+
+
+	Subset grid corners (METERS):
+		upleft[0]=10007554.677000 lowright[0]=12231455.716333 
+		upleft[1]=4447802.078667  lowright[1]=3335851.559000
+ 
+Started writing Metadata to output hdf file .......
+Started writing Metadata to output hdf file .......
+ Detected ? at the end of /bess19/Image_fusion/download/MODIS/HEGtool/bin/filetable.temp_370009 in try #1. No problem with this file.
+Could not find TimeofDay attribute in input hdf file.
+Could not find CalendarDate attribute in input hdf file.
+Could not find first SENSORNAME attribute in input hdf file.
+Could not find first POINTINGANGLE attribute in input hdf file.
+Could not find first SETTINGTIMEOFPOINTING attribute in input hdf file.
+Could not find second SENSORNAME attribute in input hdf file.
+Could not find second POINTINGANGLE attribute in input hdf file.
+Could not find second SETTINGTIMEOFPOINTING attribute in input hdf file.
+Could not find third SENSORNAME attribute in input hdf file.
+Could not find third POINTINGANGLE attribute in input hdf file.
+Could not find third SETTINGTIMEOFPOINTING attribute in input hdf file.
+Could not find MAPORIENTATIONANGLE attribute in input hdf file.
+Could not find third SOLARDIRECTION attribute in input hdf file.
+Some of the Mandatory metadata were not set.
+Finished writing Metadata to output hdf file.
+
+
+Removed the intermediate metadta file: /bess19/Image_fusion/download/MODIS/HEGtool/MCD43A4.A2020238.h27v05.006.2020275001956_MOD_Grid_BRDF.hdf.met. 
+
+
+	Pixel size of the output reprojected grid = 490.000000 meters.
+
+
+***** Starting Run #1 *****
+ Detected ? at the end of /bess19/Image_fusion/download/MODIS/HEGtool/bin/filetable.temp_370009 in try #1. No problem with this file.
+=================================
+Product ShortName: MCD43A4
+=================================
+ReadHDFHeader : Warning: non-square pixel sizes!
+Warning: ReadParameterFile : Bad Or Missing OUTPUT_PROJECTION_PARAMETERS field
+     : First 2 PROJECTION_PARAMETERS fields disagree with the UTM zone code. Will use zone code.
+
+CheckImageArea : Message:  Subset area larger than data, subset area will be adjusted.
+
+Input image and reprojection info
+---------------------------------
+
+input_filename:          /bess19/Image_fusion/download/MODIS/HEGtool/re_temp_stitched_subsetted_XXXXIrsXyC.hdf
+output_filename:         /bess19/Image_fusion/download/MODIS/HEGtool/MCD43A4.A2020238.h27v05.006.2020275001956_MOD_Grid_BRDF.tif
+object_name:             MOD_Grid_BRDF
+field_name:              BRDF_Albedo_Band_Mandatory_Quality_Band4
+input_filetype:          HDF-EOS
+output_filetype:         GEOTIFF
+input_projection_type:   SIN
+output_projection_type:  UTM
+output_zone_code:        52
+output_ellipsoid:        WGS84
+resampling_type:         NN
+input projection parameters:  6371007.18 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+output projection parameters: 129.00 35.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+
+input image corners (lat/lon):
+    UL:  40.00 117.49 
+    UR:  40.00 143.59 
+    LL:  30.00 103.92 
+    LR:  30.00 127.02 
+
+input image spatial subset corners (lat/lon):
+    UL:  40.00000000 117.48665602 
+    UR:  40.00000000 143.59480181 
+    LL:  30.00000000 103.92813635 
+    LR:  30.00000000 127.01705921 
+
+     band	                select   type lines smpls pixsiz_x  pixsiz_y        min    max   fill
+  1) BRDF_Albedo_Band_Mandatory_Quality_Band4	   1  UINT8  2269  4539 489.953963  490.061930      0    254        255
+
+
+SINUSOIDAL PROJECTION PARAMETERS:
+
+   Semi-Major Axis of Ellipsoid:     6371007.181000 meters
+   Semi-Minor Axis of Ellipsoid:     6371007.181000 meters
+   Longitude of Center:     0.000000 degrees
+   False Easting:      0.000000 meters 
+   False Northing:     0.000000 meters 
+
+UNIVERSAL TRANSVERSE MERCATOR (UTM) PROJECTION PARAMETERS:
+
+   Zone:      52
+   Semi-Major Axis of Ellipsoid:     6378137.000000 meters
+   Semi-Minor Axis of Ellipsoid:     6356752.314245 meters
+   Scale Factor at C. Meridian:      0.999600
+   Longitude of Central Meridian:     129.000000 degrees
+ 
+Note: In some special cases (such as using No-Resample) the following ncols & nrows values may be ignored.
+Output Pixel Size:          489.953963
+Output Grid ncols:          7903
+Output Grid nrows:          2472
+ 
+ Begin Resample using Nearest Neighbor (2472 rows)  ...   Completed Resample using Nearest Neighbor
+
+Output image info
+-----------------
+output image corners (lat/lon):
+    UL:  37.53452187 101.41417024 
+    UR:  39.74087526 145.48131507 
+    LL:  27.71386086 104.49901658 
+    LR:  29.21209521 143.48154355 
+
+output image corners (X-Y projection units):
+    UL:  -1956620.74423342 4531159.10875265 
+    UR:  1915485.42757727 4531159.10875265 
+    LL:  -1956620.74423342 3319992.91152172 
+    LR:  1915485.42757727 3319992.91152172 
+
+     band      type lines smpls xpixsize    ypixsize    min    max   fill
+  1) BRDF_Albedo_Band_Mandatory_Quality_Band4  UINT8  2472  7903 489.953963    489.953963       0    254    255
+
+Started writing Metadata to output hdf and/or *.met file .......
+ Detected ? at the end of /bess19/Image_fusion/download/MODIS/HEGtool/bin/filetable.temp_370009 in try #1. No problem with this file.
+Could not find TimeofDay attribute in input hdf file.
+Could not find CalendarDate attribute in input hdf file.
+Could not find first SENSORNAME attribute in input hdf file.
+Could not find first POINTINGANGLE attribute in input hdf file.
+Could not find first SETTINGTIMEOFPOINTING attribute in input hdf file.
+Could not find second SENSORNAME attribute in input hdf file.
+Could not find second POINTINGANGLE attribute in input hdf file.
+Could not find second SETTINGTIMEOFPOINTING attribute in input hdf file.
+Could not find third SENSORNAME attribute in input hdf file.
+Could not find third POINTINGANGLE attribute in input hdf file.
+Could not find third SETTINGTIMEOFPOINTING attribute in input hdf file.
+Could not find MAPORIENTATIONANGLE attribute in input hdf file.
+Could not find third SOLARDIRECTION attribute in input hdf file.
+Finished writing Metadata to output hdf file.
+
+Successfully reprojected stitched-subsetted output file
+Original stitched HDF file saved....
+
+ Grid stitching completed, please wait for completion of other proccesses .......
+***********************************************
+Ending Time:  Sun May  2 13:29:25 2021
+
+Finished processing! 
+CPU time = 25.7 seconds.
+Elapsed time = 26.0 seconds.
+***********************************************
+Job completed....
+
+*************************************
+   (subset_stitch_grid)   
+Start Time:  Sun May  2 13:34:58 2021
+
+**************************************
+
+Listing Command Line Options:
+ ./subset_stitch_grid -p HegGridStitch.prm_root 
+
+
+ Processing request number 1....... 
+
+ INPUTS Read from Parameter file:
+
+	 NUMBER_INPUTFILES = 2
+	 outputfilename = /bess19/Image_fusion/download/MODIS/HEGtool/MCD43A4.A2020238.h27v05.006.2020275001956_MOD_Grid_BRDF.tif
+	 outputstitchfilename = /bess19/Image_fusion/download/MODIS/HEGtool/MCD43A4.A2020238.h27v05.006.2020275001956_MOD_Grid_BRDF_stitched_.hdf
+	 objectname = MOD_Grid_BRDF
+	 outobjectname = MOD_Grid_BRDF
+	 fieldname = BRDF_Albedo_Band_Mandatory_Quality_Band2
+	 selected_band = 1
+	 subsetting_upleft_lat = 40.000000 
+	 subsetting_upleft_lon = 103.923048 
+	 subsetting_lowright_lat = 30.000000 
+	 subsetting_lowright_lon = 143.594802 
+	 x_outpixelsize = 463.312717 
+	 y_outpixelsize = 463.312717 
+...OUTPUT_PROJECTION_TYPE:    UTM   
+...OUTPUT_RESAMPLING_TYPE:    NN   
+Stitch     ...ELLIPSOID_CODE:            DEFAULT   
+Conversion ...ELLIPSOID_CODE:            WGS84   
+...UTM_ZONE:                  52  
+...OUTPUT_PROJECTION_PARAMETERS: (   0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  ) 
+	 Input hdf file number 1 :
+/bess19/Image_fusion/download/MODIS/HEGtool/MCD43A4.A2020238.h27v05.006.2020275001956.hdf
+	 Input hdf file number 2 :
+/bess19/Image_fusion/download/MODIS/HEGtool/MCD43A4.A2020238.h28v05.006.2020275002246.hdf
+The file '/bess19/Image_fusion/download/MODIS/HEGtool/MCD43A4.A2020238.h27v05.006.2020275001956_MOD_Grid_BRDF_stitched_.hdf' already exists.
+Error:   : General Processing
+     : 
+ Encountered a problem. Exiting
+
+*************************************
+   (subset_stitch_grid)   
+Start Time:  Sun May  2 13:35:48 2021
+
+**************************************
+
+Listing Command Line Options:
+ ./subset_stitch_grid -p HegGridStitch.prm_root 
+
+
+ Processing request number 1....... 
+
+ INPUTS Read from Parameter file:
+
+	 NUMBER_INPUTFILES = 2
+	 outputfilename = /bess19/Image_fusion/download/MODIS/HEGtool/MCD43A4.A2020238.h27v05.006.2020275001956_MOD_Grid_BRDF.tif
+	 outputstitchfilename = /bess19/Image_fusion/download/MODIS/HEGtool/MCD43A4.A2020238.h27v05.006.2020275001956_MOD_Grid_BRDF_stitched_.hdf
+	 objectname = MOD_Grid_BRDF
+	 outobjectname = MOD_Grid_BRDF
+	 fieldname = BRDF_Albedo_Band_Mandatory_Quality_Band7
+	 selected_band = 1
+	 subsetting_upleft_lat = 40.000000 
+	 subsetting_upleft_lon = 103.923048 
+	 subsetting_lowright_lat = 30.000000 
+	 subsetting_lowright_lon = 143.594802 
+	 x_outpixelsize = 463.312717 
+	 y_outpixelsize = 463.312717 
+...OUTPUT_PROJECTION_TYPE:    UTM   
+...OUTPUT_RESAMPLING_TYPE:    NN   
+Stitch     ...ELLIPSOID_CODE:            DEFAULT   
+Conversion ...ELLIPSOID_CODE:            WGS84   
+...UTM_ZONE:                  52  
+...OUTPUT_PROJECTION_PARAMETERS: (   0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  ) 
+	 Input hdf file number 1 :
+/bess19/Image_fusion/download/MODIS/HEGtool/MCD43A4.A2020238.h27v05.006.2020275001956.hdf
+	 Input hdf file number 2 :
+/bess19/Image_fusion/download/MODIS/HEGtool/MCD43A4.A2020238.h28v05.006.2020275002246.hdf
+ Detected ? at the end of /bess19/Image_fusion/download/MODIS/HEGtool/bin/filetable.temp_370499 in try #1. No problem with this file.
+=================================
+Product ShortName: MCD43A4
+=================================
+Spheroid Adjusted OUTPUT_PROJECTION_PARAMETERS: (   6371007.181000  6371007.181000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  ) 
+ Detected ? at the end of /bess19/Image_fusion/download/MODIS/HEGtool/bin/filetable.temp_370499 in try #1. No problem with this file.
+=================================
+Product ShortName: MCD43A4
+=================================
+Spheroid Adjusted OUTPUT_PROJECTION_PARAMETERS: (   6371007.181000  6371007.181000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  ) 
+ 
+Stitched grid's corners:
+
+    (easting)DMS or METERS      (northing)DMS or METERS
+UL:  10007554.677000             4447802.078667
+UR:  12231455.716333             4447802.078667
+LL:  10007554.677000             3335851.559000
+LR:  12231455.716333             3335851.559000
+ 
+    (lon)DD                (lat)DD
+UL:  117.486656             40.000000
+UR:  143.594802             40.000000
+LL:  103.923048             30.000000
+LR:  127.017059             30.000000
+ 
+ 
+Actual Pixel sizes in output grid:
+ 
+    X_Pixel_size = 463.312717 (meters)
+    Y_Pixel_size = 463.312717 (meters)
+
+	X/Y dim for the stitched grid: X_dim = 4800   Y_dim = 2400
+
+% of Grid conversion for file # 1: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+% of Grid conversion for file # 2: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+ 
+ Creating output stitch/subset files .......
+
+
+
+	X/Y dim for Subset grid: X_dim = 4800   Y_dim = 2400
+
+
+	Subset grid corners (METERS):
+		upleft[0]=10007554.677000 lowright[0]=12231455.716333 
+		upleft[1]=4447802.078667  lowright[1]=3335851.559000
+ 
+Started writing Metadata to output hdf file .......
+Started writing Metadata to output hdf file .......
+ Detected ? at the end of /bess19/Image_fusion/download/MODIS/HEGtool/bin/filetable.temp_370499 in try #1. No problem with this file.
+Could not find TimeofDay attribute in input hdf file.
+Could not find CalendarDate attribute in input hdf file.
+Could not find first SENSORNAME attribute in input hdf file.
+Could not find first POINTINGANGLE attribute in input hdf file.
+Could not find first SETTINGTIMEOFPOINTING attribute in input hdf file.
+Could not find second SENSORNAME attribute in input hdf file.
+Could not find second POINTINGANGLE attribute in input hdf file.
+Could not find second SETTINGTIMEOFPOINTING attribute in input hdf file.
+Could not find third SENSORNAME attribute in input hdf file.
+Could not find third POINTINGANGLE attribute in input hdf file.
+Could not find third SETTINGTIMEOFPOINTING attribute in input hdf file.
+Could not find MAPORIENTATIONANGLE attribute in input hdf file.
+Could not find third SOLARDIRECTION attribute in input hdf file.
+Some of the Mandatory metadata were not set.
+Finished writing Metadata to output hdf file.
+
+
+Removed the intermediate metadta file: /bess19/Image_fusion/download/MODIS/HEGtool/MCD43A4.A2020238.h27v05.006.2020275001956_MOD_Grid_BRDF.hdf.met. 
+
+
+	Pixel size of the output reprojected grid = 463.312717 meters.
+
+
+***** Starting Run #1 *****
+ Detected ? at the end of /bess19/Image_fusion/download/MODIS/HEGtool/bin/filetable.temp_370499 in try #1. No problem with this file.
+=================================
+Product ShortName: MCD43A4
+=================================
+Warning: ReadParameterFile : Bad Or Missing OUTPUT_PROJECTION_PARAMETERS field
+     : First 2 PROJECTION_PARAMETERS fields disagree with the UTM zone code. Will use zone code.
+
+CheckImageArea : Message:  Subset area larger than data, subset area will be adjusted.
+
+Input image and reprojection info
+---------------------------------
+
+input_filename:          /bess19/Image_fusion/download/MODIS/HEGtool/re_temp_stitched_subsetted_XXXXlq6qt4.hdf
+output_filename:         /bess19/Image_fusion/download/MODIS/HEGtool/MCD43A4.A2020238.h27v05.006.2020275001956_MOD_Grid_BRDF.tif
+object_name:             MOD_Grid_BRDF
+field_name:              BRDF_Albedo_Band_Mandatory_Quality_Band7
+input_filetype:          HDF-EOS
+output_filetype:         GEOTIFF
+input_projection_type:   SIN
+output_projection_type:  UTM
+output_zone_code:        52
+output_ellipsoid:        WGS84
+resampling_type:         NN
+input projection parameters:  6371007.18 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+output projection parameters: 129.00 35.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+
+input image corners (lat/lon):
+    UL:  40.00 117.49 
+    UR:  40.00 143.59 
+    LL:  30.00 103.92 
+    LR:  30.00 127.02 
+
+input image spatial subset corners (lat/lon):
+    UL:  40.00000000 117.48665602 
+    UR:  40.00000000 143.59480181 
+    LL:  30.00000000 103.92785969 
+    LR:  30.00000000 127.01705921 
+
+     band	                select   type lines smpls pixsiz_x  pixsiz_y        min    max   fill
+  1) BRDF_Albedo_Band_Mandatory_Quality_Band7	   1  UINT8  2400  4800 463.312717  463.312717      0    254        255
+
+
+SINUSOIDAL PROJECTION PARAMETERS:
+
+   Semi-Major Axis of Ellipsoid:     6371007.181000 meters
+   Semi-Minor Axis of Ellipsoid:     6371007.181000 meters
+   Longitude of Center:     0.000000 degrees
+   False Easting:      0.000000 meters 
+   False Northing:     0.000000 meters 
+
+UNIVERSAL TRANSVERSE MERCATOR (UTM) PROJECTION PARAMETERS:
+
+   Zone:      52
+   Semi-Major Axis of Ellipsoid:     6378137.000000 meters
+   Semi-Minor Axis of Ellipsoid:     6356752.314245 meters
+   Scale Factor at C. Meridian:      0.999600
+   Longitude of Central Meridian:     129.000000 degrees
+ 
+Note: In some special cases (such as using No-Resample) the following ncols & nrows values may be ignored.
+Output Pixel Size:          463.312717
+Output Grid ncols:          8357
+Output Grid nrows:          2614
+ 
+ Begin Resample using Nearest Neighbor (2614 rows)  ...   Completed Resample using Nearest Neighbor
+
+Output image info
+-----------------
+output image corners (lat/lon):
+    UL:  37.53445050 101.41388786 
+    UR:  39.74125078 145.47874336 
+    LL:  27.71436021 104.49862707 
+    LR:  29.21293163 143.47933892 
+
+output image corners (X-Y projection units):
+    UL:  -1956648.69297734 4531159.10875265 
+    UR:  1915255.67904472 4531159.10875265 
+    LL:  -1956648.69297734 3320059.66774922 
+    LR:  1915255.67904472 3320059.66774922 
+
+     band      type lines smpls xpixsize    ypixsize    min    max   fill
+  1) BRDF_Albedo_Band_Mandatory_Quality_Band7  UINT8  2614  8357 463.312717    463.312717       0    254    255
+
+Started writing Metadata to output hdf and/or *.met file .......
+ Detected ? at the end of /bess19/Image_fusion/download/MODIS/HEGtool/bin/filetable.temp_370499 in try #1. No problem with this file.
+Could not find TimeofDay attribute in input hdf file.
+Could not find CalendarDate attribute in input hdf file.
+Could not find first SENSORNAME attribute in input hdf file.
+Could not find first POINTINGANGLE attribute in input hdf file.
+Could not find first SETTINGTIMEOFPOINTING attribute in input hdf file.
+Could not find second SENSORNAME attribute in input hdf file.
+Could not find second POINTINGANGLE attribute in input hdf file.
+Could not find second SETTINGTIMEOFPOINTING attribute in input hdf file.
+Could not find third SENSORNAME attribute in input hdf file.
+Could not find third POINTINGANGLE attribute in input hdf file.
+Could not find third SETTINGTIMEOFPOINTING attribute in input hdf file.
+Could not find MAPORIENTATIONANGLE attribute in input hdf file.
+Could not find third SOLARDIRECTION attribute in input hdf file.
+Finished writing Metadata to output hdf file.
+
+Successfully reprojected stitched-subsetted output file
+Original stitched HDF file saved....
+
+ Grid stitching completed, please wait for completion of other proccesses .......
+***********************************************
+Ending Time:  Sun May  2 13:36:16 2021
+
+Finished processing! 
+CPU time = 28.5 seconds.
+Elapsed time = 28.0 seconds.
+***********************************************
+Job completed....
+
+*************************************
+   (subset_stitch_grid)   
+Start Time:  Sun May  2 13:50:30 2021
+
+**************************************
+
+Listing Command Line Options:
+ subset_stitch_grid -p HegGridStitch.prm_root 
+
+
+ Processing request number 1....... 
+
+ INPUTS Read from Parameter file:
+
+	 NUMBER_INPUTFILES = 2
+	 outputfilename = /bess19/Image_fusion/download/MODIS/HEGtool/MCD43A4.A2020238.h27v05.006.2020275001956_MOD_Grid_BRDF.tif
+	 outputstitchfilename = /bess19/Image_fusion/download/MODIS/HEGtool/MCD43A4.A2020238.h27v05.006.2020275001956_MOD_Grid_BRDF_stitched_.hdf
+	 objectname = MOD_Grid_BRDF
+	 outobjectname = MOD_Grid_BRDF
+	 fieldname = BRDF_Albedo_Band_Mandatory_Quality_Band7
+	 selected_band = 1
+	 subsetting_upleft_lat = 40.000000 
+	 subsetting_upleft_lon = 103.923048 
+	 subsetting_lowright_lat = 30.000000 
+	 subsetting_lowright_lon = 143.594802 
+	 x_outpixelsize = 463.312717 
+	 y_outpixelsize = 463.312717 
+...OUTPUT_PROJECTION_TYPE:    UTM   
+...OUTPUT_RESAMPLING_TYPE:    NN   
+Stitch     ...ELLIPSOID_CODE:            DEFAULT   
+Conversion ...ELLIPSOID_CODE:            WGS84   
+...UTM_ZONE:                  52  
+...OUTPUT_PROJECTION_PARAMETERS: (   0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  ) 
+	 Input hdf file number 1 :
+/bess19/Image_fusion/download/MODIS/HEGtool/MCD43A4.A2020238.h27v05.006.2020275001956.hdf
+	 Input hdf file number 2 :
+/bess19/Image_fusion/download/MODIS/HEGtool/MCD43A4.A2020238.h28v05.006.2020275002246.hdf
+ Detected ? at the end of /bess19/Image_fusion/download/MODIS/HEGtool/bin/filetable.temp_371592 in try #1. No problem with this file.
+=================================
+Product ShortName: MCD43A4
+=================================
+Spheroid Adjusted OUTPUT_PROJECTION_PARAMETERS: (   6371007.181000  6371007.181000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  ) 
+ Detected ? at the end of /bess19/Image_fusion/download/MODIS/HEGtool/bin/filetable.temp_371592 in try #1. No problem with this file.
+=================================
+Product ShortName: MCD43A4
+=================================
+Spheroid Adjusted OUTPUT_PROJECTION_PARAMETERS: (   6371007.181000  6371007.181000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  0.000000  ) 
+ 
+Stitched grid's corners:
+
+    (easting)DMS or METERS      (northing)DMS or METERS
+UL:  10007554.677000             4447802.078667
+UR:  12231455.716333             4447802.078667
+LL:  10007554.677000             3335851.559000
+LR:  12231455.716333             3335851.559000
+ 
+    (lon)DD                (lat)DD
+UL:  117.486656             40.000000
+UR:  143.594802             40.000000
+LL:  103.923048             30.000000
+LR:  127.017059             30.000000
+ 
+ 
+Actual Pixel sizes in output grid:
+ 
+    X_Pixel_size = 463.312717 (meters)
+    Y_Pixel_size = 463.312717 (meters)
+
+	X/Y dim for the stitched grid: X_dim = 4800   Y_dim = 2400
+
+% of Grid conversion for file # 1: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+% of Grid conversion for file # 2: 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+ 
+ Creating output stitch/subset files .......
+
+
+
+	X/Y dim for Subset grid: X_dim = 4800   Y_dim = 2400
+
+
+	Subset grid corners (METERS):
+		upleft[0]=10007554.677000 lowright[0]=12231455.716333 
+		upleft[1]=4447802.078667  lowright[1]=3335851.559000
+ 
+Started writing Metadata to output hdf file .......
+Started writing Metadata to output hdf file .......
+ Detected ? at the end of /bess19/Image_fusion/download/MODIS/HEGtool/bin/filetable.temp_371592 in try #1. No problem with this file.
+Could not find TimeofDay attribute in input hdf file.
+Could not find CalendarDate attribute in input hdf file.
+Could not find first SENSORNAME attribute in input hdf file.
+Could not find first POINTINGANGLE attribute in input hdf file.
+Could not find first SETTINGTIMEOFPOINTING attribute in input hdf file.
+Could not find second SENSORNAME attribute in input hdf file.
+Could not find second POINTINGANGLE attribute in input hdf file.
+Could not find second SETTINGTIMEOFPOINTING attribute in input hdf file.
+Could not find third SENSORNAME attribute in input hdf file.
+Could not find third POINTINGANGLE attribute in input hdf file.
+Could not find third SETTINGTIMEOFPOINTING attribute in input hdf file.
+Could not find MAPORIENTATIONANGLE attribute in input hdf file.
+Could not find third SOLARDIRECTION attribute in input hdf file.
+Some of the Mandatory metadata were not set.
+Finished writing Metadata to output hdf file.
+
+
+Removed the intermediate metadta file: /bess19/Image_fusion/download/MODIS/HEGtool/MCD43A4.A2020238.h27v05.006.2020275001956_MOD_Grid_BRDF.hdf.met. 
+
+
+	Pixel size of the output reprojected grid = 463.312717 meters.
+
+
+***** Starting Run #1 *****
+ Detected ? at the end of /bess19/Image_fusion/download/MODIS/HEGtool/bin/filetable.temp_371592 in try #1. No problem with this file.
+=================================
+Product ShortName: MCD43A4
+=================================
+Warning: ReadParameterFile : Bad Or Missing OUTPUT_PROJECTION_PARAMETERS field
+     : First 2 PROJECTION_PARAMETERS fields disagree with the UTM zone code. Will use zone code.
+
+CheckImageArea : Message:  Subset area larger than data, subset area will be adjusted.
+
+Input image and reprojection info
+---------------------------------
+
+input_filename:          /bess19/Image_fusion/download/MODIS/HEGtool/re_temp_stitched_subsetted_XXXX8b5KWS.hdf
+output_filename:         /bess19/Image_fusion/download/MODIS/HEGtool/MCD43A4.A2020238.h27v05.006.2020275001956_MOD_Grid_BRDF.tif
+object_name:             MOD_Grid_BRDF
+field_name:              BRDF_Albedo_Band_Mandatory_Quality_Band7
+input_filetype:          HDF-EOS
+output_filetype:         GEOTIFF
+input_projection_type:   SIN
+output_projection_type:  UTM
+output_zone_code:        52
+output_ellipsoid:        WGS84
+resampling_type:         NN
+input projection parameters:  6371007.18 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+output projection parameters: 129.00 35.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+
+input image corners (lat/lon):
+    UL:  40.00 117.49 
+    UR:  40.00 143.59 
+    LL:  30.00 103.92 
+    LR:  30.00 127.02 
+
+input image spatial subset corners (lat/lon):
+    UL:  40.00000000 117.48665602 
+    UR:  40.00000000 143.59480181 
+    LL:  30.00000000 103.92785969 
+    LR:  30.00000000 127.01705921 
+
+     band	                select   type lines smpls pixsiz_x  pixsiz_y        min    max   fill
+  1) BRDF_Albedo_Band_Mandatory_Quality_Band7	   1  UINT8  2400  4800 463.312717  463.312717      0    254        255
+
+
+SINUSOIDAL PROJECTION PARAMETERS:
+
+   Semi-Major Axis of Ellipsoid:     6371007.181000 meters
+   Semi-Minor Axis of Ellipsoid:     6371007.181000 meters
+   Longitude of Center:     0.000000 degrees
+   False Easting:      0.000000 meters 
+   False Northing:     0.000000 meters 
+
+UNIVERSAL TRANSVERSE MERCATOR (UTM) PROJECTION PARAMETERS:
+
+   Zone:      52
+   Semi-Major Axis of Ellipsoid:     6378137.000000 meters
+   Semi-Minor Axis of Ellipsoid:     6356752.314245 meters
+   Scale Factor at C. Meridian:      0.999600
+   Longitude of Central Meridian:     129.000000 degrees
+ 
+Note: In some special cases (such as using No-Resample) the following ncols & nrows values may be ignored.
+Output Pixel Size:          463.312717
+Output Grid ncols:          8357
+Output Grid nrows:          2614
+ 
+ Begin Resample using Nearest Neighbor (2614 rows)  ...   Completed Resample using Nearest Neighbor
+
+Output image info
+-----------------
+output image corners (lat/lon):
+    UL:  37.53445050 101.41388786 
+    UR:  39.74125078 145.47874336 
+    LL:  27.71436021 104.49862707 
+    LR:  29.21293163 143.47933892 
+
+output image corners (X-Y projection units):
+    UL:  -1956648.69297734 4531159.10875265 
+    UR:  1915255.67904472 4531159.10875265 
+    LL:  -1956648.69297734 3320059.66774922 
+    LR:  1915255.67904472 3320059.66774922 
+
+     band      type lines smpls xpixsize    ypixsize    min    max   fill
+  1) BRDF_Albedo_Band_Mandatory_Quality_Band7  UINT8  2614  8357 463.312717    463.312717       0    254    255
+
+Started writing Metadata to output hdf and/or *.met file .......
+ Detected ? at the end of /bess19/Image_fusion/download/MODIS/HEGtool/bin/filetable.temp_371592 in try #1. No problem with this file.
+Could not find TimeofDay attribute in input hdf file.
+Could not find CalendarDate attribute in input hdf file.
+Could not find first SENSORNAME attribute in input hdf file.
+Could not find first POINTINGANGLE attribute in input hdf file.
+Could not find first SETTINGTIMEOFPOINTING attribute in input hdf file.
+Could not find second SENSORNAME attribute in input hdf file.
+Could not find second POINTINGANGLE attribute in input hdf file.
+Could not find second SETTINGTIMEOFPOINTING attribute in input hdf file.
+Could not find third SENSORNAME attribute in input hdf file.
+Could not find third POINTINGANGLE attribute in input hdf file.
+Could not find third SETTINGTIMEOFPOINTING attribute in input hdf file.
+Could not find MAPORIENTATIONANGLE attribute in input hdf file.
+Could not find third SOLARDIRECTION attribute in input hdf file.
+Finished writing Metadata to output hdf file.
+
+Successfully reprojected stitched-subsetted output file
+Original stitched HDF file saved....
+
+ Grid stitching completed, please wait for completion of other proccesses .......
+***********************************************
+Ending Time:  Sun May  2 13:50:45 2021
+
+Finished processing! 
+CPU time = 30.5 seconds.
+Elapsed time = 15.0 seconds.
+***********************************************
+Job completed....

@@ -1,0 +1,8 @@
+--2021-05-26 11:14:57--  https://scihub.copernicus.eu/dhus/odata/v1/Products('47abb7ee-01ef-45c7-ae5b-4addf85d91af')/$value
+Resolving scihub.copernicus.eu (scihub.copernicus.eu)... 146.59.215.226
+Connecting to scihub.copernicus.eu (scihub.copernicus.eu)|146.59.215.226|:443... connected.
+HTTP request sent, awaiting response... 401 Unauthorized
+Reusing existing connection to scihub.copernicus.eu:443.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2021-05-26 11:15:00 ERROR 500: Internal Server Error.
+

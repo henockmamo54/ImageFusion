@@ -51,3 +51,27 @@ Landsat8/_l8_angles/LC08_L1TP_116033_20180509_20180517_01_T1.tar.gz
 Landsat8/_L8_angles back up/l8_angles/LC08_L1TP_116033_20180509_20180517_01_T1.tar.gz
 Landsat8/_L8_angles back up/l8_angles2/LC08_L1TP_116033_20180509_20180517_01_T1.tar.gz
 sentinel2/_backup_5_21_21/core.280881
+from server/code/Fmask_4_3_Linux_mcr.install
+*.gz
+from server/code/CCDC/CCDC_ChangeARD13_01
+*.zip
+from server/code/CCDC/test_file/LC80240362013110LGN01/LC80240362013110LGN01_MTLstack
+from server/code/CCDC/test_file/LC80240362013142LGN01/LC80240362013142LGN01_MTLstack
+from server/code/CCDC/test_file/LC80240362013158LGN00/LC80240362013158LGN00_MTLstack
+from server/code/CCDC/test_file/LC80240362013174LGN00/LC80240362013174LGN00_MTLstack
+from server/code/CCDC/test_file/LC80240362013190LGN00/LC80240362013190LGN00_MTLstack
+from server/code/CCDC/test_file/LC80240362013206LGN00/LC80240362013206LGN00_MTLstack
+from server/code/CCDC/test_file/LC80240362013222LGN00/LC80240362013222LGN00_MTLstack
+from server/code/CCDC/test_file/LC80240362013238LGN00/LC80240362013238LGN00_MTLstack
+from server/code/CCDC/test_file/LC80240362013254LGN00/LC80240362013254LGN00_MTLstack
+from server/code/CCDC/test_file/LC80240362013270LGN00/LC80240362013270LGN00_MTLstack
+from server/code/CCDC/test_file/LC80240362013286LGN00/LC80240362013286LGN00_MTLstack
+from server/code/CCDC/test_file/LC80240362013302LGN00/LC80240362013302LGN00_MTLstack
+from server/code/download_cropping_reprojection/MODIS/MCD43A4/log_MCD43A4.txt
+from server/code/HEGtool/bin/HEConvert
+from server/code/Fmask/application/Fmask_4_3
+from server/code/HEGtool/heg.tar
+from server/code/HEGtool/HEGtool/bin/HEConvert
+from server/code/HEGtool/data/counties.txt
+from server/code/HEGtool/HEGtool/data/counties.txt
+from server/code/MAT2TIFF/jp2toGeotiff/T52SCH_20200919T021609_B02_10m.jp2

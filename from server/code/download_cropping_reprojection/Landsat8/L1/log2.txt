@@ -1,0 +1,14 @@
+/bess19/Image_fusion/download/Landsat8/L1/LC08_L1TP_116033_20191120_20191203_01_T1.tar.gz 
+ /bess19/Image_fusion/download/Landsat8/L1/Extracted/LC08_L1TP_116033_20191120_20191203_01_T1.tar.gz
+/bess19/Image_fusion/download/Landsat8/L1/LC08_L1TP_116034_20191120_20191203_01_T1.tar.gz 
+ /bess19/Image_fusion/download/Landsat8/L1/Extracted/LC08_L1TP_116034_20191120_20191203_01_T1.tar.gz
+/bess19/Image_fusion/download/Landsat8/L1/LC08_L1TP_116033_20191104_20191115_01_T1.tar.gz 
+ /bess19/Image_fusion/download/Landsat8/L1/Extracted/LC08_L1TP_116033_20191104_20191115_01_T1.tar.gz
+/bess19/Image_fusion/download/Landsat8/L1/LC08_L1TP_116034_20191104_20191115_01_T1.tar.gz 
+ /bess19/Image_fusion/download/Landsat8/L1/Extracted/LC08_L1TP_116034_20191104_20191115_01_T1.tar.gz
+/bess19/Image_fusion/download/Landsat8/L1/LC08_L1TP_116033_20191019_20191029_01_T1.tar.gz 
+ /bess19/Image_fusion/download/Landsat8/L1/Extracted/LC08_L1TP_116033_20191019_20191029_01_T1.tar.gz
+/bess19/Image_fusion/download/Landsat8/L1/LC08_L1TP_116034_20191019_20191029_01_T1.tar.gz 
+ /bess19/Image_fusion/download/Landsat8/L1/Extracted/LC08_L1TP_116034_20191019_20191029_01_T1.tar.gz
+/bess19/Image_fusion/download/Landsat8/L1/LC08_L1TP_116033_20191003_20191018_01_T1.tar.gz 
+ /bess19/Image_fusion/download/Landsat8/L1/Extracted/LC08_L1TP_116033_20191003_20191018_01_T1.tar.gz

@@ -1,0 +1,462 @@
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019235_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019213_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019237_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019214_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019236_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019215_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019238_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019216_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019239_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019217_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019240_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019218_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019241_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019219_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019242_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019220_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019243_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019221_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019244_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019222_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019245_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019223_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019246_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019224_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019250_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019225_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019249_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019226_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019235_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019235_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019213_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019213_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019237_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019237_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019214_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019214_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019236_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019236_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019215_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019215_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019238_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019238_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019216_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019216_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019239_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019239_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019217_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019217_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019240_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019240_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019218_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019218_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019241_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019241_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019219_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019219_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019242_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019242_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019220_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019220_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019243_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019243_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019221_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019221_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019244_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019244_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019222_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019222_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019245_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019245_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019223_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019223_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019246_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019246_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019224_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019224_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019250_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019250_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019225_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019225_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019249_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019249_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019226_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019226_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019251_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019251_Deep_Blue_Aerosol_Optical_Depth_550_Land.tifCreating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019251_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019227_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019252_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019228_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019253_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019229_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019254_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019230_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019255_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019231_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019256_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019232_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019257_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019233_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019258_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019234_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019247_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019248_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019259_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019260_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019261_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019262_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019263_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019264_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019265_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019266_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019267_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019268_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019269_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019227_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019227_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019252_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019252_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019228_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019228_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019253_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019253_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019229_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019229_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019254_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019254_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019230_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019230_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019255_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019255_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019231_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019231_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019256_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019256_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019232_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019232_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019257_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019257_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019233_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019233_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019258_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019258_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019234_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019234_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019247_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019247_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019248_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019248_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019259_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019259_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019260_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019260_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019261_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019261_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019262_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019262_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019263_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019263_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019264_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019264_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019265_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019265_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019266_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019266_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019267_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019267_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019268_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019268_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019269_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019269_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019270_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019270_Deep_Blue_Aerosol_Optical_Depth_550_Land.tifCreating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019270_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019271_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019272_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019273_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019274_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019275_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019276_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019277_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019278_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019279_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019280_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019281_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019282_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019283_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019284_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019285_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019286_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019287_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019288_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019289_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019290_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019291_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019292_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019293_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019294_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019295_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019296_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019297_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019298_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019271_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019271_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019272_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019272_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019273_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019273_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019274_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019274_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019275_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019275_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019276_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019276_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019277_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019277_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019278_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019278_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019279_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019279_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019280_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019280_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019281_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019281_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019282_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019282_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019283_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019283_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019284_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019284_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019285_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019285_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019286_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019286_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019287_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019287_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019288_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019288_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019289_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019289_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019290_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019290_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019291_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019291_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019292_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019292_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019293_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019293_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019294_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019294_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019295_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019295_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019296_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019296_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019297_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019297_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019298_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019298_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019299_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019299_Deep_Blue_Aerosol_Optical_Depth_550_Land.tifCreating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019299_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019300_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019301_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019302_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019303_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019304_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019305_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019306_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019307_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019308_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019309_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019310_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019311_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019312_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019313_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019314_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019315_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019316_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019317_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019318_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019319_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019320_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019321_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019322_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019323_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019324_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019325_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019326_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019327_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019300_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019300_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019301_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019301_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019302_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019302_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019303_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019303_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019304_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019304_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019305_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019305_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019306_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019306_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019307_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019307_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019308_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019308_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019309_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019309_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019310_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019310_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019311_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019311_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019312_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019312_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019313_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019313_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019314_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019314_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019315_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019315_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019316_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019316_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019317_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019317_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019318_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019318_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019319_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019319_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019320_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019320_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019321_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019321_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019322_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019322_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019323_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019323_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019324_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019324_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019325_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019325_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019326_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019326_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019327_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019327_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019328_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019328_Deep_Blue_Aerosol_Optical_Depth_550_Land.tifCreating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019328_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019329_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019330_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019331_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019332_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019333_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019334_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019335_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019336_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019337_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019338_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019339_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019340_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019341_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019342_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019343_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019344_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019345_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019346_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019347_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019348_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019349_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019350_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019351_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019352_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019353_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019354_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019355_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019356_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019329_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019329_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019330_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019330_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019331_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019331_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019332_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019332_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019333_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019333_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019334_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019334_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019335_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019335_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019336_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019336_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019337_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019337_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019338_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019338_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019339_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019339_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019340_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019340_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019341_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019341_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019342_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019342_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019343_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019343_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019344_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019344_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019345_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019345_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019346_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019346_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019347_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019347_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019348_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019348_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019349_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019349_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019350_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019350_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019351_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019351_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019352_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019352_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019353_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019353_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019354_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019354_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019355_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019355_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019356_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019356_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019357_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019357_Deep_Blue_Aerosol_Optical_Depth_550_Land.tifCreating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019357_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019358_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019359_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019360_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019361_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019362_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019363_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019364_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 11P x 23L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019365_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+Creating output file that is 18P x 18L.
+Processing /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2020001_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif [1/1] : 0...10...20...30...40...50...60...70...80...90...100 - done.
+
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019358_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019358_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019359_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019359_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019360_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019360_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019361_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019361_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019362_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019362_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019363_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019363_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019364_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019364_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2019365_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2019365_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif
+gdalwarp -t_srs EPSG:32652  -r near -tr 1000 1000 /bess19/Image_fusion/pre_process/MODIS/MYD04/Cropped/MYD04_L2A2020001_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif /bess19/Image_fusion/pre_process/MODIS/MYD04/Reprojected/MYD04_L2A2020001_Deep_Blue_Aerosol_Optical_Depth_550_Land.tif

@@ -1,0 +1,16 @@
+5030|MCD43A4.A2019221.h29v05.061.2020310010111.hdf|/bess19/Image_fusion/download/MODIS/MCD43A4/2019/MCD43A4.A2019221.h29v05.061.2020310010111.hdf
+10100|LogStatus|/bess19/Image_fusion/download/MODIS/HEGtool/TOOLKIT_MTD/runtime/LogStatus
+5000|configfile.dat|/bess19/Image_fusion/download/MODIS/HEGtool/TOOLKIT_MTD/runtime//configfile.dat
+10301|leapsec.dat|/bess19/Image_fusion/download/MODIS/HEGtool/TOOLKIT_MTD/database/common/TD/leapsec.dat
+10401|utcpole.dat|/bess19/Image_fusion/download/MODIS/HEGtool/TOOLKIT_MTD/database/common/CSC/utcpole.dat
+10402|earthfigure.dat|/bess19/Image_fusion/download/MODIS/HEGtool/TOOLKIT_MTD/database/common/CSC/earthfigure.dat
+10601|de200.eos|/bess19/Image_fusion/download/MODIS/HEGtool/TOOLKIT_MTD/database/common/CBP/de200.eos
+10801|sc_tags.dat|/bess19/Image_fusion/download/MODIS/HEGtool/TOOLKIT_MTD/database/common/EPH/sc_tags.dat
+10302|udunits.dat|/bess19/Image_fusion/download/MODIS/HEGtool/TOOLKIT_MTD/database/common/CUC/udunits.dat
+10250|MCF_file|/bess19/Image_fusion/download/MODIS/HEGtool/data/MCF_file
+10251|data_dict|/bess19/Image_fusion/download/MODIS/HEGtool/data/data_dict
+10252|GetAttrtemp_422090|/bess19/Image_fusion/download/MODIS/MCD43A4/GetAttrtemp_422090
+10254|MCFWrite.temp|/bess19/Image_fusion/download/MODIS/MCD43A4/MCFWrite.temp
+10255|AsciiDump|/bess19/Image_fusion/download/MODIS/MCD43A4/AsciiDump
+0|DUMMY|/bess19/Image_fusion/download/MODIS/MCD43A4/DUMMY
+?
