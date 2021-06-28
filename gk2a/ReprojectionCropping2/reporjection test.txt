@@ -1,0 +1,31 @@
+
+
+
+-s_srs <geos projection>
+
+gdalwarp -s_srs geos  -t_srs EPSG:32652 test777.nc test.tif
+
+
+gdalwarp -to SRC_METHOD=NO_GEOTRANSFORM -t_srs EPSG:32652 test777.nc test.tif
+
+
+gdalwarp -s_srs  "+proj=geos +a=6378169.0 +b=6356583.8 +lon_0=0.0 +h=35785831.0" -t_srs EPSG:32652 test777.nc test.tif
+
+
+
+
+gdalwarp   -t_srs EPSG:4326 gk2a_ami_le1b_vi004_fd010ge_201908110100.nc test.tif
+
+
+gdalwarp -s_srs "+proj=geos +lon_0=Central Meridian +h=Satellite Height +x_0=False Easting +y_0=False Northing" -t_srs EPSG:32652 test777.nc test.tif
+
+
+gdalwarp -s_srs EPSG:4326 -t_srs EPSG:32652 test777.nc test.tif
+
+gdal_translate -of GTiff test777.nc test.tif
+
+gdalwarp -t_srs EPSG:32652 -r near -of GTiff test777.nc test.tif
+
+
+export GDAL_NETCDF_BOTTOMUP=NO
+gdalwarp -t_srs EPSG:32652 -r near -of GTiff test777.nc tes99t.tif

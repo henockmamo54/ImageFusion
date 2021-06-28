@@ -12,7 +12,7 @@ import netCDF4 as nc
 import pandas as pd
 
 
-input_file='D:/Workplace/githubProjects/ImageFusion/GK2A/ReprojectionCropping2/cropped_output_ncfile4.nc'
+input_file='D:/Workplace/githubProjects/ImageFusion/GK2A/ReprojectionCropping2/output_ncfile4.nc'
 ncfile=nc.Dataset(input_file,'r',format='netcdf4')
  
 albedo= ncfile.variables['albedo'][:]
@@ -52,11 +52,6 @@ lats = ds.createVariable('lat', 'f4', ('lat',))
 lons = ds.createVariable('lon', 'f4', ('lon',))
 value = ds.createVariable('value', 'f4', ('time', 'lat', 'lon',))
 value.units = 'Unknown'
-
-lats.units = 'degrees_north'
-lats.long_name = 'latitude'
-lons.units = 'degrees_east'
-lons.long_name = 'longitude'
 
 lats[:] = latitude_
 lons[:] = longitude_

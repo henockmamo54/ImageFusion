@@ -72,7 +72,7 @@ def latlon_from_lincol_geos(Resolution, Line ,Column):
 	
 	x= degtorad *( (Column - COFF)*2**16 / CFAC )
 	y= degtorad *( (Line - LOFF)*2**16 / LFAC )
-	Sd = np.sqrt (abs(( (42164.0*np.cos(x)*np.cos(y))**2 - (np.cos(y)**2 + 1.006739501*np.sin(y)**2)*1737122264)))
+	Sd = np.sqrt (abs( (42164.0*np.cos(x)*np.cos(y))**2 - (np.cos(y)**2 + 1.006739501*np.sin(y)**2)*1737122264))
 	Sn = (42164.0*np.cos(x)*np.cos(y)-Sd) / (np.cos(y)**2 + 1.006739501*np.sin(y)**2)
 	S1 = 42164.0 - ( Sn * np.cos(x) * np.cos(y) )
 	S2 = Sn * ( np.sin(x) * np.cos(y) )
@@ -171,21 +171,21 @@ def cut_with_latlon_geos(Array, Resolution, Latitude1, Longitude1, Latitude2, Lo
 # 5. Input data path setup 
 ############################
 # input_ncfile_path = 'gk2a_ami_le1b_sw038_fd020ge_201905100300.nc'
-input_ncfile_path = 'gk2a_ami_le1b_vi008_fd010ge_201912290420.nc'
+input_ncfile_path = 'gk2a_ami_le1b_vi004_fd010ge_201908110100.nc'
 
 CT_path='./conversion_table/'
 
-output_ncfile_path='_21_cropped_gk2a_ami_le1b_vi008_fd010ge_201912290420.nc'
+output_ncfile_path='output_ncfile4.nc'
 
 # left_upper_lat=38.22346787684907
 # left_upper_lon=127.21710138948873
 # right_lower_lat=38.18195837298332
 # right_lower_lon=127.27222505323994
 
-left_upper_lat=40.5
-left_upper_lon=110.5
-right_lower_lat=20.5
-right_lower_lon=140.5
+left_upper_lat=38.5
+left_upper_lon=126.5
+right_lower_lat=37.5
+right_lower_lon=127.5
 
 
 ############################
