@@ -1,0 +1,26 @@
+cropping.py:101: RuntimeWarning: invalid value encountered in sqrt
+  Sd = np.sqrt( (42164.0*np.cos(x)*np.cos(y))**2 - (np.cos(y)**2 + 1.006739501*np.sin(y)**2)*1737122264)
+Traceback (most recent call last):
+  File "cropping.py", line 232, in <module>
+    (geos_lat,geos_lon) = latlon_from_lincol_geos(2.0,j,i)
+  File "cropping.py", line 102, in latlon_from_lincol_geos
+    Sn = (42164.0*np.cos(x)*np.cos(y)-Sd) / (np.cos(y)**2 + 1.006739501*np.sin(y)**2)
+MemoryError: Unable to allocate array with shape (11000, 11000) and data type float64
+cropping.py:101: RuntimeWarning: invalid value encountered in sqrt
+  Sd = np.sqrt( (42164.0*np.cos(x)*np.cos(y))**2 - (np.cos(y)**2 + 1.006739501*np.sin(y)**2)*1737122264)
+Traceback (most recent call last):
+  File "cropping.py", line 220, in <module>
+    input_ncfile = nc.Dataset(input_ncfile_path,'r',format='netcdf4')
+  File "src/netCDF4/_netCDF4.pyx", line 2330, in netCDF4._netCDF4.Dataset.__init__
+  File "src/netCDF4/_netCDF4.pyx", line 1948, in netCDF4._netCDF4._ensure_nc_success
+OSError: [Errno -101] NetCDF: HDF error: b'/bess19/Image_fusion/download/GK2A/L1/VI004/2019/gk2a_ami_le1b_vi004_fd010ge_202001010300.nc'
+Traceback (most recent call last):
+  File "_cropping.py", line 216, in <module>
+    input_ncfile = nc.Dataset(input_ncfile_path,'r',format='netcdf4')
+  File "src/netCDF4/_netCDF4.pyx", line 2330, in netCDF4._netCDF4.Dataset.__init__
+  File "src/netCDF4/_netCDF4.pyx", line 1948, in netCDF4._netCDF4._ensure_nc_success
+OSError: [Errno -101] NetCDF: HDF error: b'/bess19/Image_fusion/download/GK2A/L1/VI004/2019/gk2a_ami_le1b_vi004_fd010ge_202001010300.nc'
+Traceback (most recent call last):
+  File "_reproject.py", line 29, in <module>
+    left_upper_lat= float(sys.argv[1]) 
+IndexError: list index out of range

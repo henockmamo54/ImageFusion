@@ -1,0 +1,2 @@
+cropping.py:101: RuntimeWarning: invalid value encountered in sqrt
+  Sd = np.sqrt( (42164.0*np.cos(x)*np.cos(y))**2 - (np.cos(y)**2 + 1.006739501*np.sin(y)**2)*1737122264)

@@ -1,0 +1,40 @@
+HDF5-DIAG: Error detected in HDF5 (1.10.4) thread 47534956449472:
+  #000: H5F.c line 509 in H5Fopen(): unable to open file
+    major: File accessibilty
+    minor: Unable to open file
+  #001: H5Fint.c line 1400 in H5F__open(): unable to open file
+    major: File accessibilty
+    minor: Unable to open file
+  #002: H5Fint.c line 1700 in H5F_open(): unable to read superblock
+    major: File accessibilty
+    minor: Read failed
+  #003: H5Fsuper.c line 623 in H5F__super_read(): truncated file: eof = 849272832, sblock->base_addr = 0, stored_eof = 968049612
+    major: File accessibilty
+    minor: File has been truncated
+_cropping.py:126: RuntimeWarning: invalid value encountered in sqrt
+  Sd = np.sqrt( (42164.0*np.cos(x)*np.cos(y))**2 - (np.cos(y)**2 + 1.006739501*np.sin(y)**2)*1737122264)
+gk2a_ami_le1b_vi006_fd005ge_201908010100.nc
+gk2a_ami_le1b_vi006_fd005ge_201908010110.nc
+gk2a_ami_le1b_vi006_fd005ge_201908010130.nc
+gk2a_ami_le1b_vi006_fd005ge_201908010140.nc
+gk2a_ami_le1b_vi006_fd005ge_201908010150.nc
+gk2a_ami_le1b_vi006_fd005ge_201908010200.nc
+gk2a_ami_le1b_vi006_fd005ge_201908010210.nc
+gk2a_ami_le1b_vi006_fd005ge_201908010220.nc
+gk2a_ami_le1b_vi006_fd005ge_201908010230.nc
+gk2a_ami_le1b_vi006_fd005ge_201908010240.nc
+gk2a_ami_le1b_vi006_fd005ge_201908010250.nc
+gk2a_ami_le1b_vi006_fd005ge_201908010300.nc
+gk2a_ami_le1b_vi006_fd005ge_201908010310.nc
+gk2a_ami_le1b_vi006_fd005ge_201908010320.nc
+gk2a_ami_le1b_vi006_fd005ge_201908010330.nc
+gk2a_ami_le1b_vi006_fd005ge_201908010340.nc
+gk2a_ami_le1b_vi006_fd005ge_201908010350.nc
+gk2a_ami_le1b_vi006_fd005ge_201908010400.nc
+gk2a_ami_le1b_vi006_fd005ge_201908010410.nc
+Traceback (most recent call last):
+  File "_cropping.py", line 239, in <module>
+    input_ncfile = nc.Dataset(input_ncfile_path,'r',format='netcdf4')
+  File "netCDF4/_netCDF4.pyx", line 2135, in netCDF4._netCDF4.Dataset.__init__
+  File "netCDF4/_netCDF4.pyx", line 1752, in netCDF4._netCDF4._ensure_nc_success
+OSError: [Errno -101] NetCDF: HDF error: b'/bess19/Image_fusion/download/GK2A/L1/VI006/2019/gk2a_ami_le1b_vi006_fd005ge_201908010410.nc'

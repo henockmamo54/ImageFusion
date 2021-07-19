@@ -1,0 +1,34 @@
+HDF5-DIAG: Error detected in HDF5 (1.10.4) thread 47444138028736:
+  #000: H5F.c line 444 in H5Fcreate(): unable to create file
+    major: File accessibilty
+    minor: Unable to open file
+  #001: H5Fint.c line 1364 in H5F__create(): unable to open file
+    major: File accessibilty
+    minor: Unable to open file
+  #002: H5Fint.c line 1615 in H5F_open(): unable to lock the file
+    major: File accessibilty
+    minor: Unable to open file
+  #003: H5FD.c line 1640 in H5FD_lock(): driver lock request failed
+    major: Virtual File Layer
+    minor: Can't update object
+  #004: H5FDsec2.c line 941 in H5FD_sec2_lock(): unable to lock file, errno = 11, error message = 'Resource temporarily unavailable'
+    major: File accessibilty
+    minor: Bad file ID accessed
+_cropping.py:126: RuntimeWarning: invalid value encountered in sqrt
+  Sd = np.sqrt( (42164.0*np.cos(x)*np.cos(y))**2 - (np.cos(y)**2 + 1.006739501*np.sin(y)**2)*1737122264)
+gk2a_ami_le1b_vi004_fd010ge_201908010100.nc
+gk2a_ami_le1b_vi004_fd010ge_201908010110.nc
+gk2a_ami_le1b_vi004_fd010ge_201908010120.nc
+gk2a_ami_le1b_vi004_fd010ge_201908010130.nc
+gk2a_ami_le1b_vi004_fd010ge_201908010140.nc
+gk2a_ami_le1b_vi004_fd010ge_201908010150.nc
+gk2a_ami_le1b_vi004_fd010ge_201908010200.nc
+gk2a_ami_le1b_vi004_fd010ge_201908010210.nc
+gk2a_ami_le1b_vi004_fd010ge_201908010220.nc
+gk2a_ami_le1b_vi004_fd010ge_201908010230.nc
+Traceback (most recent call last):
+  File "_cropping.py", line 307, in <module>
+    output_ncfile=nc.Dataset(output_ncfile_path,'w',format='NETCDF4')
+  File "netCDF4/_netCDF4.pyx", line 2135, in netCDF4._netCDF4.Dataset.__init__
+  File "netCDF4/_netCDF4.pyx", line 1752, in netCDF4._netCDF4._ensure_nc_success
+PermissionError: [Errno 13] Permission denied: b'/bess19/Image_fusion/pre_process/GK2A/Cropped/VI004/gk2a_ami_le1b_vi004_fd010ge_201908010230.nc'

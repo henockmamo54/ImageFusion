@@ -1,0 +1,13 @@
+
+
+
+# add projection
+gdal_translate -a_srs EPSG:4326 -of GTiff converted_ncfile.nc  77.tif
+
+#crop smaller target region
+gdal_translate -projwin 123.749492205 40.963868055 129.727693925 35.419980135 -of GTiff 77.tif 78.tif
+
+# reproject
+gdalwarp -t_srs EPSG:32652 -r near -of GTiff 78.tif 79.tif
+
+

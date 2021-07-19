@@ -75,3 +75,16 @@ from server/code/HEGtool/HEGtool/bin/HEConvert
 from server/code/HEGtool/data/counties.txt
 from server/code/HEGtool/HEGtool/data/counties.txt
 from server/code/MAT2TIFF/jp2toGeotiff/T52SCH_20200919T021609_B02_10m.jp2
+GPP_Daily^.2018.177.mat
+GPP_Daily^.2018.178.mat
+GPP_Daily^.2020.177.mat
+GPP_Daily^.2020.178.mat
+GPP_Daily^.2021.029.mat
+GPP_Daily^.2021.030.mat
+GPP_Monthly^.2018.05.mat
+GPP_Monthly^.2018.06.mat
+GPP_Monthly^.2018.07.mat
+GPP_Monthly^.2020.05.mat
+GPP_Monthly^.2020.06.mat
+GPP_Monthly^.2020.07.mat
+Landmask.005d.mat

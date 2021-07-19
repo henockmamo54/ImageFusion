@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "_cropping.py", line 216, in <module>
+    input_ncfile = nc.Dataset(input_ncfile_path,'r',format='netcdf4')
+  File "src/netCDF4/_netCDF4.pyx", line 2330, in netCDF4._netCDF4.Dataset.__init__
+  File "src/netCDF4/_netCDF4.pyx", line 1948, in netCDF4._netCDF4._ensure_nc_success
+OSError: [Errno -101] NetCDF: HDF error: b'/bess19/Image_fusion/download/GK2A/L1/VI004/2019/gk2a_ami_le1b_vi004_fd010ge_202001010300.nc'

@@ -1,0 +1,42 @@
+
+
+
+35785831
+
+42164000
+
+
++proj=geos +lon_0=0.0 +h=42164000 
+
+gdal_translate -a_srs "+proj=geos +h=42164000" -of GTiff 21_2_testconvertedto.nc  test9.tif
+
+gdal_translate -a_srs "+proj=geos +h=35785831 +lon_0=128.2 " -of GTiff converted_ncfile.nc  test9.tif
+
+
+gdal_translate -a_srs "+proj=geos +h=35785831 +lon_0=128.2 " -of GTiff converted_ncfile.nc  test9.tif
+
+gdal_translate -a_srs "+proj=geos +h=35785831 " -of GTiff converted_ncfile.nc  test9.tif
+
+gdalwarp -of GTiff -t_srs EPSG:4326 -te 127.21710138948873 38.18195837298332 127.27222505323994 38.22346787684907 test11.tif test12.tif
+
+gdalwarp -t_srs EPSG:4326  -r near test9.tif test11.tif
+
+gdalwarp -of GTiff -t_srs EPSG:4326 -te 127.21710138948873 38.18195837298332 127.27222505323994 38.22346787684907 test11.tif test12.tif
+
+
+
+
+gdal_translate -a_srs "+proj=geos +h=42164000" -of GTiff 21_2_testconvertedto_21_cropped_21_cropped_gk2a_ami_le1b_vi008_fd010ge_201912290420.nc  test_201912290420.tif
+
+gdal_translate -a_srs "+proj=geos +h=42164000" -of GTiff 21_2_testconvertedto_21_cropped_gk2a_ami_le1b_vi008_fd010ge_201912290110.nc  test_201912290110.tif
+
+
+
+gdal_translate -a_srs "+proj=geos +h=35785831 " -of GTiff converted_ncfile.nc  test9.tif
+
+gdal_translate -projwin 123.6204 41.5249 130.1792 34.6177 test9.tif test11.tif
+
+gdalwarp -t_srs EPSG:32652 -r near -of GTiff test11.tif test12.tif
+
+gdalwarp -t_srs EPSG:32652 -r near -of GTiff "test11.tif" OUTPUT.tif
+
