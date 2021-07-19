@@ -1,0 +1,26 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="lat#long_name">latitude</MDI>
+    <MDI key="lat#units">degrees_north</MDI>
+    <MDI key="lon#long_name">longitude</MDI>
+    <MDI key="lon#units">degrees_east</MDI>
+    <MDI key="NC_GLOBAL#_NCProperties">version=2,netcdf=4.7.4,hdf5=1.10.7</MDI>
+    <MDI key="NETCDF_DIM_EXTRA">{time}</MDI>
+    <MDI key="NETCDF_DIM_time_DEF">{1,5}</MDI>
+    <MDI key="NETCDF_DIM_time_VALUES">9.96921e+36</MDI>
+    <MDI key="value#units">Unknown</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <UnitType>Unknown</UnitType>
+    <Metadata>
+      <MDI key="NETCDF_DIM_time">9.96921e+36</MDI>
+      <MDI key="NETCDF_VARNAME">value</MDI>
+      <MDI key="STATISTICS_MAXIMUM">0.00044889899436384</MDI>
+      <MDI key="STATISTICS_MEAN">-5.5398147376644e-06</MDI>
+      <MDI key="STATISTICS_MINIMUM">-0.00059849099488929</MDI>
+      <MDI key="STATISTICS_STDDEV">0.00011859785073936</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+      <MDI key="units">Unknown</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

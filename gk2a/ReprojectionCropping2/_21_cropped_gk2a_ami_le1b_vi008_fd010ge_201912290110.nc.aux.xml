@@ -1,0 +1,14 @@
+<PAMDataset>
+  <Subdataset name="albedo">
+    <PAMDataset>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MAXIMUM">0.00044889899436384</MDI>
+          <MDI key="STATISTICS_MEAN">-4.9858332638979e-05</MDI>
+          <MDI key="STATISTICS_MINIMUM">-0.00059849099488929</MDI>
+          <MDI key="STATISTICS_STDDEV">0.00035267464381832</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+</PAMDataset>
